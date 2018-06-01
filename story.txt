@@ -1,0 +1,251 @@
+#General
+Friday, March 9
+Christy 10:02 AM Our NYT article just got published, check it out here: https://www.nytimes.com/2018/03/09/us/teacher-tech-boom.html [popper 2][hands up 3]
+John 10:56 AM Whoever keeps leaving dirty dishes in the sink, the sponge is there for a reason…
+Anna 12:32 PM The elevator isn’t going down when you press the button :sadpanda: [danger 2]
+David 1:34 PM @christy
+Christy 1:36 PM The building manager says he won’t be able to get a contractor in until Monday. @here Please use the stairs instead!
+David 1:37 PM New building soon!
+Christy 1:37 PM #newbuildingnewproblems
+Christy 2:10 PM The 2018 Q1 workplace survey is here: https://docs.google.com/forms/d/e/1FAIpQLSfGKplxG2FmtyaWW906yO1lvaZ4BKIDkkurAW9fHaG Please fill it out by next Friday!
+Monday, March 12
+John 10:32 AM This dish situation is getting out of hand. You know some of us need our coffee in the morning, and I can’t fill up the boiler with this pile of crap in the sink. [poopy 2]
+Christy 12:34 PM Food incoming in 5 minutes! [yay 3]
+Christy 12:35 PM Can someone help me bring up the food? [thumbsup 1]
+David 1:42 PM When will the localizations into Russian be finished? I’m getting more than a few concerned emails.
+John 1:42 PM Browser language = ru represents less than 1% of our users
+David 1:44 PM It’s our third largest cohort, put pressure on the translators
+Christy 2:30 PM Elevator technician is here! Please excuse the noise for the next hour. [thumbsup 1]
+John 2:40 PM Oh god, when will it stop? [ded 2]
+Christy 2:44 PM I’ve closed the front door, but I’ve been informed that there is no quiet way to do it.
+Christy 4:32 PM The repair is finished! [yay 3]
+John 4:33 PM Can we jump in it? [ohgodwhy 1]
+Christy 4:33 PM Please no…
+Tuesday, March 13
+Anna 11:36 AM I’m so excited about axe throwing! I’ve always wanted to do it! Thanks Christy! [yay 2][+1 3]
+Christy 11:38 AM Aww thanks!
+Christy 12:31 PM Lunch incoming! And we will be having cake afterwards to celebrate March birthdays! [yay 3][cake 2]
+Wednesday, March 14
+Ajay 11:46 AM @christy would you happen to have the contact info for Brad Gutenberg? He’s a contractor
+Christy 11:56 AM @ajay I can’t find that name in upwork, do you know if they were last active before June last year? We switched systems then
+Ajay 11:58 AM It seems like they committed recently, I’ll look into it more
+Thursday, March 15
+Christy 10:22 AM @here Everyone look through your guru cards and any google products for edits from a “Brad Gutenberg”. It appears that an account was illicitly added to our org and they may have changed some of our docs [thumbsup 3]
+John 10:23 AM Is this the same account that we are looking for in github? They hacked google and github? Scary [wizard 1][ghost 1]
+Christy 12:27 PM Thanks @ajay for bringing this to our attention [yay 3]
+David 1:45 PM We just closed the Pearson deal! Thanks to everyone who made this possible over the last few months! [yay 5][popper 3]
+Friday, March 16
+Anna 10:43 AM @christy I’m not anywhere close to finished with looking through my emails because of the code audit, but from doing a quick search it seems like many many emails have been inserted into my inbox that reference brad or are from brad. I don’t know why they are here, it’s like they are trying to convince us he works here.
+John 10:45 AM Maybe that’s the plan, it might have worked if we were a bigger company, but it’s hard to believe this is their endgame if they have access to all of our github and google accounts.
+Christy 11:25 AM You may have noticed the desk at the front of the office labeled “Brad” in the seating chart. Please don’t touch anything on it, we are having the police come in later today to look at it. [ghost 3]
+David 11:28 AM @here Meeting at the couches now
+Christy 3:20 PM @here Let me know if you think anything is missing from your desk.
+Monday, March 19
+Ajay 11:10 AM @here Theres a person here from steel city locksmiths, does anyone know anything about that?
+David 11:24 AM They said that “Christy” scheduled an appointment to change the locks on the front and back doors. @here look through your emails for this person
+Anna 11:35 AM I can tell you right now that the issue is a lot bigger than we thought. There are a ton of emails in my inbox from christy, and theres a lot from brad as well. It looks like this goes a lot further than just github
+John 11:42 AM I’m seeing the same thing, emails from brad and christy. How did they get into github AND google!?
+Anna 11:45 AM I don’t know about anyone else, but I’m seeing emails that are from me that I definitely didn’t send. This seems to be way bigger than just someone added to our org [+1 2]
+David 11:47 AM This is too much this morning, I say we officially break for early lunch. Where to?
+John 11:48 AM Elbow room! [+1 2][yuk 1]
+Anna 11:50 AM To the elevator!
+David 1:50 PM I’ll be on the phone with customer support all day at this rate
+David 2:15 PM Theres another suspicious desk in the office, stay away from the first desk to the left of the door.
+John 2:17 PM How did we miss this when the police were here?
+John 2:20 PM I think ill work from home for the rest of the day. I’ve got a splitting headache from that undercooked pasta [thumbsup 2]
+David 2:27 PM I’ve printed up our org chart and taped it to the pillar. Let me know if theres anyone on here you don’t recognize besides christy and brad.
+Tuesday, March 20
+John 11:17 AM @here I’ve put a bunch of things on the table next to the couches. Let me know if theres anything you recognize
+Anna 11:23 AM @john this keyboard definitely used to be mine, where did you find this stuff?
+John 11:52 AM Not feeling well again, I think ill work from home. [sick 1]
+David 12:05 PM I’m having pizza brought in, what toppings does everyone want?
+Anna 12:06 PM pepperoni and cheese! [+1 1]
+David 1:54 PM @here I’ll be working from home for the rest of the week tracking down these issues we’ve been having. I don’t know about my connectivity tomorrow and day after, but I should be reachable by friday [thumbsup 2][spy 1]
+Wednesday, March 21
+Ajay 11:37 AM What’s happening for lunch today?
+Anna 11:38 AM Want to get Mercurio’s at noon? [baymax-yes 1]
+#Engineering
+Friday, March 9
+Anna 9:10 AM Remember to let me know before 5PM if you want to go to Google I/O this year. [thumbs up 3]
+PagerDuty 11:32 AM Triggered #6476 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith
+PagerDuty 11:33 AM Acknowledged #6476 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith
+PagerDuty 11:33 AM Triggered #6477 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith
+PagerDuty 11:33 AM Acknowledged #6477 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith
+PagerDuty 11:42 AM Resolved #6477 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith
+PagerDuty 11:42 AM Resolved #6476 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith
+John 1:50 PM The diagnostics site is up! You can go to graderite.com/diagnostics to see user statistics, emulate users, and more! Make sure you are logged in to your admin accounts. [yay 2]
+Anna 1:51 PM This tool is amazing! Thanks John! [+1 2]
+Brad 2:52 PM I’ll be out of cell range all weekend while I’m hiking Allegheny National Forest. John is on call and should be next point of contact for anything going wrong with monolith. [thumbs up 3]
+PagerDuty 3:02 PM Triggered #6478 | Problem | Disaster | Average CPUUtilization GreaterThanOrEqualToThreshold 80.0 for ServiceName graderite-portal-worker-prod! Assigned: Brad Guttenberg Service: Monolith
+PagerDuty 3:02 PM Acknowledged #6478 | Problem | Disaster | Average CPUUtilization GreaterThanOrEqualToThreshold... Assigned: Brad Guttenberg Service: Monolith
+PagerDuty 3:06 PM Resolved #6478 | Problem | Disaster | Average CPUUtilization GreaterThanOrEqualToThreshold... Assigned: Brad Guttenberg Service: Monolith
+Anna 3:08 PM Oh god, don’t leave us! [laughing 3]
+John 3:10 PM I’m sure nothing will happen… [ded 1]
+David 4:30 PM People are reporting 404’s on the overview page. Are we sure the credentials issue is fixed?
+David 4:33 PM ^ @here
+Anna 4:33 PM Rollbar is showing a spike in JS errors, looking like a routing issue, @John?
+John 4:34 PM Looking into it! [thumbs up 1]
+Saturday March, 10
+PagerDuty 10:05 AM Triggered #6479 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith
+PagerDuty 10:05 AM Acknowledged #6479 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith
+David 10:06 AM @here whats going on?
+John 10:07 AM It looks like it’s a temporary spike, queue length going down again
+PagerDuty 10:07 AM Acknowledged #6479 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith
+John 10:07 AM I’ll have Brad look into it on Monday
+Monday, March 12
+Anna 11:16 AM I just noticed a bot unassigned my PR’s reviewer. What is going on?
+John 11:17 AM After commenting, the graderite bot unassigns the reviewer so the owner can address the issue
+Anna 11:17 AM When did this start? And is it referenced anywhere?
+John 11:18 AM Last week, it’s in the guru card: https://app.getguru.com/#/facts/38beb0ba-a0ec-4cdd-81df-4c7f34a44e07 [thanks 1]
+Anna 11:45 AM Here’s your periodic reminder that GDPR begins in May. Make sure you are following all the steps in this card for your owned repos: https://app.getguru.com/#/facts/5e90af78-41e1-42a2-8a5c-491c92b83c2d
+David 1:32 PM Can anyone explain what this spike is on March 3? https://metrics.graderite.com/segmentation#aggregation:(type:unique),analysis:linear,chartType:line,dateEnd:'0',dateStart:'12',eventName:welcome,timeUnit:day
+Anna 1:34 PM This seems to correspond with a spike in forum posts, which matches with the “sexy local schoolteacher” problem.
+John 1:35 PM Bots?
+Anna 1:35 PM Looks like it.
+Anna 2:24 PM We’ve identified that the localization backend is costing us a lot for the amount of work it should be doing. I’ve written up a preliminary spec about transferring it over to Scala, please take a look: https://docs.google.com/document/d/1mJnOx5koOATe8MhQ1Ni2m2aK-g7QnZZlkNyYqJtAFws/edit?usp=sharing
+PagerDuty 3:17 PM Triggered #6480 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith
+David 3:18 PM @john is this the same problem from the weekend?
+PagerDuty 3:18 PM Acknowledged #6480 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith
+John 3:19 PM It looks like it. Keeping an eye on the queue
+David 3:20 PM Is this user facing?
+John 3:21 PM Users won’t notice this latency, it’s just for notifications [thumbsup 1]
+John 3:25 PM It’s going down again.
+PagerDuty 3:25 PM Resolved #6480 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith
+Tuesday, March 13
+David 11:13 AM @john Did you find anything about the queue
+John 11:15 AM Thanks to @anna and @ajay I was able to find that the scaling policy wasn’t set up correctly to deal with our newly increased user base. I increased the max machines [thumbsup 1]
+David 11:25 AM Is anyone on top of periodically reviewing things like this as our DAUs grow?
+John 11:26 AM Not atm, @ajay?
+Ajay 11:28 AM Sure
+Ajay 12:15 PM I’m trying to merge in my big transfer change, but the jenkins ci task is failing. Who would I ask about that kind of thing?
+Anna 2:20 PM @here It looks like the load on the reports db is spiking, does anyone know of something that may be querying it? Welcomes are steady
+John 2:27 PM Looks like a runaway query in the diagnostics dashboard. I’ve shut down the dashboard for now until I push the fix. [thanks 1]
+Ajay 3:24 PM Would it be possible to force-merge this change since the jenkins is failing?
+Anna 3:25 PM I think we should wait until we get the ci back up. Do you need help? [thumbsup 1]
+Wednesday, March 14
+Ajay 11:25 AM Where would I look for mapping between github usernames and employee names?
+John 11:27 AM There’s already a card in guru for this.
+Ajay 11:43 AM Who would have the contractor contact information?
+Anna 11:45 AM Christy would
+Thursday, March 15
+Anna 10:23 AM @here Some of our accounts might have been hacked, including our github. We need each of the platform owners to look through the commits by `bgutenberg` to find out what they changed. [thumbsup 3][secret-agent 1]
+John 10:25 AM Is this the same account on guru and google? How did this happen?!? [shrug 1]
+Anna 11:35 AM @here engineering meeting today cancelled
+Ajay 12:20 PM The jenkins ci has been fixed! Thanks @anna! You can now retrigger your ci by commenting `run ci` in your pr [yay 2]
+Ajay 2:23 PM Would any repo checkers be free to give the final check on my transfer pr? #56 [thumbsup 1]
+Friday, March 16
+David 10:16 AM @here How long will it take to revert all of these fake commits?
+Anna 10:20 AM I’m not sure that’s possible. There are hundreds of them across a huge number of files.
+John 10:32 AM I’m finding the same thing, there doesn’t seem to be any malicious pattern to it either. They reference Jira issues that this account is assigned to, and they appear to fix the issues that they are associated with.
+Anna 10:35 AM They’ve gone through a weird amount of effort too. A lot of comments on these issues are spoofed from our accounts. Also their comments and reviews appear on closed pr’s.
+John 10:42 AM Could they have force pushed branches to rewrite their commit history?
+Anna 10:46 AM Yes, but I don’t know how they inserted historical comments in pr’s and such in github
+David 10:53 AM Who keeps their laptop in the office overnight, and what permissions do you have in the repo?
+Ajay 11:15 AM I don’t.
+Anna 11:16 AM I don’t think anyone doesn’t take their laptop home
+PagerDuty 1:25 PM Triggered #6481 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith
+PagerDuty 1:25 PM Acknowledged #6481 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith
+John 1:26 PM Should I stop my virus scan to look at the queue?
+David 1:26 PM Keep scanning, you can use my computer to log in, I’m finished [thanks 1]
+PagerDuty 1:27 PM Resolved #6481 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith
+Anna 2:15 PM @ajay can you take a look at the graderite-social for bgutenberg? [thumbsup 1]
+Ajay 2:34 PM Did anyone modify the virtualenv on next recently?
+Ajay 2:37 PM false alarm
+Saturday, March 17
+PagerDuty 2:15 PM Triggered #6482 | ALARM: "new-worker queue jump above 250,000 messages" in US East (N. Virginia) Assigned: John Lovington Service: Monolith
+PagerDuty 2:20 PM Escalated #6482 | ALARM: "new-worker queue jump above 250,000 messages" in US East (N. Virginia) Assigned: Anna Chan Service: Monolith
+PagerDuty 2:22 PM Acknowledged #6482 | ALARM: "new-worker queue jump above 250,000 messages" in US East (N. Virginia) Assigned: Anna Chan Service: Monolith
+Anna 2:23 PM I’ll just wait and see if it goes back down [thumbsup 1]
+PagerDuty 2:30 PM Resolved #6482 | ALARM: "new-worker queue jump above 250,000 messages" in US East (N. Virginia) Assigned: Anna Chan Service: Monolith
+Monday, March 19
+Anna 10:34 AM I finished up the audits on my repos this weekend. I found changes by bgutenberg all the way through, but nothing appears suspicious in the changes
+John 10:37 AM Me too, nothing so suspicious here, besides some bad coding practices. Exploits however, I found none of
+David 10:41 AM What sort of bad coding practices?
+John 10:42 AM One of the DALs wasn’t using the connection pool, but I don’t think this could be used to hurt us unless someone really hammered the server with requests for notifications or something
+David 10:45 AM How soon do you think you could have a patch in for that?
+John 10:46 AM This afternoon I could get it into code review
+David 11:25 AM @here look through the repos again for any more commits from unknowns, there may be some from someone named christy [thumbsup 2]
+David 1:08 PM How many guru cards show touched by these two? Is there a history tool we can use to revert these to a previous state?
+Anna 1:15 PM Not many by brad, but a lot by christy. There is a tool, but it shows edits for a long time back done by them. It seems like theyve been editing cards on the down low for a long time and we never noticed
+David 1:16 PM Could it be that they were hacked like google and github?
+Anna 1:16 PM it just seems too farfetched for guru too
+Tuesday, March 20
+Ajay 10:50 AM what’s the overall plan with tasks now. Are we still doing things in order?
+Anna 10:52 AM I would say yes, keep on working on your assigned tasks until we find out what restructuring we have to do
+Ajay 10:53 AM Even for tasks assigned by brad?
+Anna 10:53 AM not those…
+Wednesday, March 21
+Ajay 10:43 AM @anna would you be able to give me some tasks, I’m fresh out [thumbsup 1]
+PagerDuty 11:55 AM Triggered #6483 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith
+PagerDuty 11:55 AM Resolved #6483 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith
+Anna 11:55 AM I resolved and reassigned. @david is pagerduty affected now too? I don’t think john lovington works here
+PagerDuty 12:22 PM Triggered #6484 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: Anna Chan Service: Monolith
+PagerDuty 12:32 PM Escalated #6484 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: David Castillo Service: Monolith
+PagerDuty 12:42 PM Escalated #6484 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: David Castillo Service: Monolith
+John - Christy
+Friday
+John 12:31 PM Want to get lunch?
+Christy 12:35 PM I’m on this call with the building manager, no lunch today.
+John 1:34 PM :sadpanda:
+Monday
+Christy 10:43 AM You’ve got to chill out about the sink.
+Christy 11:20 AM Want to go out for lunch today?
+John 11:21 AM Sure!
+Christy 11:21 AM Lets go at 12:30 after I handle the caterer
+John 11:22 AM SGTM! :heart:
+Christy 2:41 PM You could _not_ be an asshole
+Tuesday
+Christy 11:02 AM Do you want to go up to Erie this weekend?
+John 11:03 AM Don’t you have to officiate that company axe throwing thing?
+Christy 11:03 AM I don’t have to be there for that.
+John 11:04 AM Sure!
+Friday
+John 11:20 AM I don’t want to freak you out, but brad has a seat in the chart, and his seat is full of real life stuff
+Christy 11:21 AM I’ve already told David, I noticed it this morning. Please don’t tell anyone else, we are getting the locks changed monday
+John 11:21 AM I think people already know, I’ve seen people eye the desk surreptitiously as they walk by
+Christy 11:22 AM Oh man
+Christy 2:34 PM Would you like to go camping instead this weekend?
+John 2:36 PM Sure, why?
+Christy 2:37 PM Lets talk after work [thumbsup 1]
+Christy - David
+Friday
+David 1:35 PM Throw our weight at the manager, we need this fixed today.
+Christy 1:37 PM He literally can’t send anyone out until monday.
+David 1:38 PM Get an independent technician
+Christy 1:39 PM I’ve already looked into it, the contract says that only their technicians can do the work.
+Monday
+David 2:38 PM This noise has got to stop.
+Christy 2:39 PM I’ll find out if it can get any quieter.
+Christy 3:43 PM The axe throwing place won’t give us the group rate for under 20 people
+David 3:45 PM That’s unacceptable, find another place
+Christy 3:47 PM I’m not sure there _are_ any other axe throwing places
+Tuesday
+David 12:20 PM Book escape the room this weekend instead
+Christy 12:21 PM I already booked the axe place
+Wednesday
+David 2:50 PM How sure are we that this isn’t just a glitch?
+Christy 2:52 PM I’m seeing extensive edits done to our guru cards by this person
+David 2:55 PM Can we revert those changes?
+Christy 2:57 PM I have no idea
+David 3:30 PM Set up a meeting tomorrow morning with everyone on the dream team for this hacking thing
+Christy 3:35 PM Done
+Friday
+Christy 10:43 AM It looks like someone’s broken into the office. The seating chart has been changed so that the remote seat at the front is listed as brad’s, and there’s a lot of stuff on the desk that wasn’t there before.
+David 10:45 AM WHY WHY WHY???? What’s on the desk?
+Christy 10:46 AM I don’t know, nothing weird. Programming books and stuff, it just looks like a normal desk, but the remote desks are supposed to be clean except for a monitor and a couple other things. There’s way more stuff than that here.
+David 10:52 AM Get a locksmith in here and change all the locks. We need to start physically locking the glass door, I don’t trust this magnetic lock
+Christy 10:53 AM I’m already on the phone to the landlord
+David 10:55 AM check your records, the ip they could steal is way more valuable than whatever half baked plan is going on here
+John - David
+Tuesday, March 20
+John 11:24 AM I think christie might have actually worked here as our office manager
+David 11:25 AM when?
+John 11:25 AM I think as recently as this week
+David 11:26 AM what do you mean?
+John 11:28 AM there was a lot of stuff in my apartment that I don’t remember getting. More than a few things had christie’s name on it
+John 11:30 AM but maybe the weirdest thing is that I found a lot of slack messages between me and her, and some of them talked about us going hiking together last weekend
+David 11:31 AM But you didn’t go hiking last weekend?
+John 11:34 AM no, but i DID go to Allegheny National Forest, I didn’t tell anyone though. I was going to hike, but I didn’t feel into it and I left after a bit.
+John 11:35 AM I did a search for that place in slack though, and I found a message from brad saying that he was going there two weekends ago. I don’t remember him, and I don’t remember her, but I can’t explain why I was there. I don’t even like hiking
+John 11:36 AM I think christie and I went there to look for brad, and I think we were living together too.
+David 11:36 AM Lets talk in the meeting room

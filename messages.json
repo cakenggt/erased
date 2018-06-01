@@ -1,0 +1,384 @@
+{
+  "general": [
+    {
+      "author": "Christy",
+      "date": "2018-03-09 10:02 AM",
+      "text":
+        "Our NYT article just got published, check it out here: https://www.nytimes.com/2018/03/09/us/teacher-tech-boom.html",
+      "reactions": [
+        { "emoji": "popper", "num": 2 },
+        { "emoji": "hands_up", "num": 3 }
+      ]
+    },
+    {
+      "author": "John",
+      "date": "2018-03-09 10:56 AM",
+      "text":
+        "Whoever keeps leaving dirty dishes in the sink, the sponge is there for a reason…",
+      "reactions": []
+    },
+    {
+      "author": "Anna",
+      "date": "2018-03-09 12:32 PM",
+      "text":
+        "The elevator isn’t going down when you press the button :sadpanda:",
+      "reactions": [{ "emoji": "danger", "num": 2 }]
+    },
+    {
+      "author": "David",
+      "date": "2018-03-09 1:34 PM",
+      "text": "@christy",
+      "reactions": []
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-09 1:36 PM",
+      "text":
+        "The building manager says he won’t be able to get a contractor in until Monday. @here Please use the stairs instead!",
+      "reactions": []
+    },
+    {
+      "author": "David",
+      "date": "2018-03-09 1:37 PM",
+      "text": "New building soon!",
+      "reactions": []
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-09 1:37 PM",
+      "text": "#newbuildingnewproblems",
+      "reactions": []
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-09 2:10 PM",
+      "text":
+        "The 2018 Q1 workplace survey is here: https://docs.google.com/forms/d/e/1FAIpQLSfGKplxG2FmtyaWW906yO1lvaZ4BKIDkkurAW9fHaG Please fill it out by next Friday!",
+      "reactions": []
+    },
+    {
+      "author": "John",
+      "date": "2018-03-12 10:32 AM",
+      "text":
+        "This dish situation is getting out of hand. You know some of us need our coffee in the morning, and I can’t fill up the boiler with this pile of crap in the sink.",
+      "reactions": [{ "emoji": "poopy", "num": 2 }]
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-12 12:34 PM",
+      "text": "Food incoming in 5 minutes!",
+      "reactions": [{ "emoji": "yay", "num": 3 }]
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-12 12:35 PM",
+      "text": "Can someone help me bring up the food?",
+      "reactions": [{ "emoji": "thumbsup", "num": 1 }]
+    },
+    {
+      "author": "David",
+      "date": "2018-03-12 1:42 PM",
+      "text":
+        "When will the localizations into Russian be finished? I’m getting more than a few concerned emails.",
+      "reactions": []
+    },
+    {
+      "author": "John",
+      "date": "2018-03-12 1:42 PM",
+      "text": "Browser language = ru represents less than 1% of our users",
+      "reactions": []
+    },
+    {
+      "author": "David",
+      "date": "2018-03-12 1:44 PM",
+      "text": "It’s our third largest cohort, put pressure on the translators",
+      "reactions": []
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-12 2:30 PM",
+      "text":
+        "Elevator technician is here! Please excuse the noise for the next hour.",
+      "reactions": [{ "emoji": "thumbsup", "num": 1 }]
+    },
+    {
+      "author": "John",
+      "date": "2018-03-12 2:40 PM",
+      "text": "Oh god, when will it stop?",
+      "reactions": [{ "emoji": "ded", "num": 2 }]
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-12 2:44 PM",
+      "text":
+        "I’ve closed the front door, but I’ve been informed that there is no quiet way to do it.",
+      "reactions": []
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-12 4:32 PM",
+      "text": "The repair is finished!",
+      "reactions": [{ "emoji": "yay", "num": 3 }]
+    },
+    {
+      "author": "John",
+      "date": "2018-03-12 4:33 PM",
+      "text": "Can we jump in it?",
+      "reactions": [{ "emoji": "ohgodwhy", "num": 1 }]
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-12 4:33 PM",
+      "text": "Please no…",
+      "reactions": []
+    },
+    {
+      "author": "Anna",
+      "date": "2018-03-13 11:36 AM",
+      "text":
+        "I’m so excited about axe throwing! I’ve always wanted to do it! Thanks Christy!",
+      "reactions": [{ "emoji": "yay", "num": 2 }, { "emoji": "+1", "num": 3 }]
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-13 11:38 AM",
+      "text": "Aww thanks!",
+      "reactions": []
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-13 12:31 PM",
+      "text":
+        "Lunch incoming! And we will be having cake afterwards to celebrate March birthdays!",
+      "reactions": [{ "emoji": "yay", "num": 3 }, { "emoji": "cake", "num": 2 }]
+    },
+    {
+      "author": "Ajay",
+      "date": "2018-03-14 11:46 AM",
+      "text":
+        "@christy would you happen to have the contact info for Brad Gutenberg? He’s a contractor",
+      "reactions": []
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-14 11:56 AM",
+      "text":
+        "@ajay I can’t find that name in upwork, do you know if they were last active before June last year? We switched systems then",
+      "reactions": []
+    },
+    {
+      "author": "Ajay",
+      "date": "2018-03-14 11:58 AM",
+      "text": "It seems like they committed recently, I’ll look into it more",
+      "reactions": []
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-15 10:22 AM",
+      "text":
+        "@here Everyone look through your guru cards and any google products for edits from a “Brad Gutenberg”. It appears that an account was illicitly added to our org and they may have changed some of our docs",
+      "reactions": [{ "emoji": "thumbsup", "num": 3 }]
+    },
+    {
+      "author": "John",
+      "date": "2018-03-15 10:23 AM",
+      "text":
+        "Is this the same account that we are looking for in github? They hacked google and github? Scary",
+      "reactions": [
+        { "emoji": "wizard", "num": 1 },
+        { "emoji": "ghost", "num": 1 }
+      ]
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-15 12:27 PM",
+      "text": "Thanks @ajay for bringing this to our attention",
+      "reactions": [{ "emoji": "yay", "num": 3 }]
+    },
+    {
+      "author": "David",
+      "date": "2018-03-15 1:45 PM",
+      "text":
+        "We just closed the Pearson deal! Thanks to everyone who made this possible over the last few months!",
+      "reactions": [
+        { "emoji": "yay", "num": 5 },
+        { "emoji": "popper", "num": 3 }
+      ]
+    },
+    {
+      "author": "Anna",
+      "date": "2018-03-16 10:43 AM",
+      "text":
+        "@christy I’m not anywhere close to finished with looking through my emails because of the code audit, but from doing a quick search it seems like many many emails have been inserted into my inbox that reference brad or are from brad. I don’t know why they are here, it’s like they are trying to convince us he works here.",
+      "reactions": []
+    },
+    {
+      "author": "John",
+      "date": "2018-03-16 10:45 AM",
+      "text":
+        "Maybe that’s the plan, it might have worked if we were a bigger company, but it’s hard to believe this is their endgame if they have access to all of our github and google accounts.",
+      "reactions": []
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-16 11:25 AM",
+      "text":
+        "You may have noticed the desk at the front of the office labeled “Brad” in the seating chart. Please don’t touch anything on it, we are having the police come in later today to look at it.",
+      "reactions": [{ "emoji": "ghost", "num": 3 }]
+    },
+    {
+      "author": "David",
+      "date": "2018-03-16 11:28 AM",
+      "text": "@here Meeting at the couches now",
+      "reactions": []
+    },
+    {
+      "author": "Christy",
+      "date": "2018-03-16 3:20 PM",
+      "text":
+        "@here Let me know if you think anything is missing from your desk.",
+      "reactions": []
+    },
+    {
+      "author": "Ajay",
+      "date": "2018-03-19 11:10 AM",
+      "text":
+        "@here Theres a person here from steel city locksmiths, does anyone know anything about that?",
+      "reactions": []
+    },
+    {
+      "author": "David",
+      "date": "2018-03-19 11:24 AM",
+      "text":
+        "They said that “Christy” scheduled an appointment to change the locks on the front and back doors. @here look through your emails for this person",
+      "reactions": []
+    },
+    {
+      "author": "Anna",
+      "date": "2018-03-19 11:35 AM",
+      "text":
+        "I can tell you right now that the issue is a lot bigger than we thought. There are a ton of emails in my inbox from christy, and theres a lot from brad as well. It looks like this goes a lot further than just github",
+      "reactions": []
+    },
+    {
+      "author": "John",
+      "date": "2018-03-19 11:42 AM",
+      "text":
+        "I’m seeing the same thing, emails from brad and christy. How did they get into github AND google!?",
+      "reactions": []
+    },
+    {
+      "author": "Anna",
+      "date": "2018-03-19 11:45 AM",
+      "text":
+        "I don’t know about anyone else, but I’m seeing emails that are from me that I definitely didn’t send. This seems to be way bigger than just someone added to our org",
+      "reactions": [{ "emoji": "+1", "num": 2 }]
+    },
+    {
+      "author": "David",
+      "date": "2018-03-19 11:47 AM",
+      "text":
+        "This is too much this morning, I say we officially break for early lunch. Where to?",
+      "reactions": []
+    },
+    {
+      "author": "John",
+      "date": "2018-03-19 11:48 AM",
+      "text": "Elbow room!",
+      "reactions": [{ "emoji": "+1", "num": 2 }, { "emoji": "yuk", "num": 1 }]
+    },
+    {
+      "author": "Anna",
+      "date": "2018-03-19 11:50 AM",
+      "text": "To the elevator!",
+      "reactions": []
+    },
+    {
+      "author": "David",
+      "date": "2018-03-19 1:50 PM",
+      "text": "I’ll be on the phone with customer support all day at this rate",
+      "reactions": []
+    },
+    {
+      "author": "David",
+      "date": "2018-03-19 2:15 PM",
+      "text":
+        "Theres another suspicious desk in the office, stay away from the first desk to the left of the door.",
+      "reactions": []
+    },
+    {
+      "author": "John",
+      "date": "2018-03-19 2:17 PM",
+      "text": "How did we miss this when the police were here?",
+      "reactions": []
+    },
+    {
+      "author": "John",
+      "date": "2018-03-19 2:20 PM",
+      "text":
+        "I think ill work from home for the rest of the day. I’ve got a splitting headache from that undercooked pasta",
+      "reactions": [{ "emoji": "thumbsup", "num": 2 }]
+    },
+    {
+      "author": "David",
+      "date": "2018-03-19 2:27 PM",
+      "text":
+        "I’ve printed up our org chart and taped it to the pillar. Let me know if theres anyone on here you don’t recognize besides christy and brad.",
+      "reactions": []
+    },
+    {
+      "author": "John",
+      "date": "2018-03-20 11:17 AM",
+      "text":
+        "@here I’ve put a bunch of things on the table next to the couches. Let me know if theres anything you recognize",
+      "reactions": []
+    },
+    {
+      "author": "Anna",
+      "date": "2018-03-20 11:23 AM",
+      "text":
+        "@john this keyboard definitely used to be mine, where did you find this stuff?",
+      "reactions": []
+    },
+    {
+      "author": "John",
+      "date": "2018-03-20 11:52 AM",
+      "text": "Not feeling well again, I think ill work from home.",
+      "reactions": [{ "emoji": "sick", "num": 1 }]
+    },
+    {
+      "author": "David",
+      "date": "2018-03-20 12:05 PM",
+      "text": "I’m having pizza brought in, what toppings does everyone want?",
+      "reactions": []
+    },
+    {
+      "author": "Anna",
+      "date": "2018-03-20 12:06 PM",
+      "text": "pepperoni and cheese!",
+      "reactions": [{ "emoji": "+1", "num": 1 }]
+    },
+    {
+      "author": "David",
+      "date": "2018-03-20 1:54 PM",
+      "text":
+        "@here I’ll be working from home for the rest of the week tracking down these issues we’ve been having. I don’t know about my connectivity tomorrow and day after, but I should be reachable by friday",
+      "reactions": [
+        { "emoji": "thumbsup", "num": 2 },
+        { "emoji": "spy", "num": 1 }
+      ]
+    },
+    {
+      "author": "Ajay",
+      "date": "2018-03-21 11:37 AM",
+      "text": "What’s happening for lunch today?",
+      "reactions": []
+    },
+    {
+      "author": "Anna",
+      "date": "2018-03-21 11:38 AM",
+      "text": "Want to get Mercurio’s at noon?",
+      "reactions": [{ "emoji": "baymax_yes", "num": 1 }]
+    }
+  ]
+}
