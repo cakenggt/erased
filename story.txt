@@ -63,10 +63,10 @@ Anna 12:06 PM pepperoni and cheese! [+1 1]
 David 1:54 PM @here I’ll be working from home for the rest of the week tracking down these issues we’ve been having. I don’t know about my connectivity tomorrow and day after, but I should be reachable by friday [thumbsup 2][spy 1]
 Wednesday, March 21
 Ajay 11:37 AM What’s happening for lunch today?
-Anna 11:38 AM Want to get Mercurio’s at noon? [baymax-yes 1]
+Anna 11:38 AM Want to get Mercurio’s at noon? [baymax_yes 1]
 #Engineering
 Friday, March 9
-Anna 9:10 AM Remember to let me know before 5PM if you want to go to Google I/O this year. [thumbs up 3]
+Anna 9:10 AM Remember to let me know before 5PM if you want to go to Google I/O this year. [thumbsup 3]
 PagerDuty 11:32 AM Triggered #6476 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith
 PagerDuty 11:33 AM Acknowledged #6476 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith
 PagerDuty 11:33 AM Triggered #6477 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith
@@ -75,7 +75,7 @@ PagerDuty 11:42 AM Resolved #6477 | Problem | Disaster | No space left on volume
 PagerDuty 11:42 AM Resolved #6476 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith
 John 1:50 PM The diagnostics site is up! You can go to graderite.com/diagnostics to see user statistics, emulate users, and more! Make sure you are logged in to your admin accounts. [yay 2]
 Anna 1:51 PM This tool is amazing! Thanks John! [+1 2]
-Brad 2:52 PM I’ll be out of cell range all weekend while I’m hiking Allegheny National Forest. John is on call and should be next point of contact for anything going wrong with monolith. [thumbs up 3]
+Brad 2:52 PM I’ll be out of cell range all weekend while I’m hiking Allegheny National Forest. John is on call and should be next point of contact for anything going wrong with monolith. [thumbsup 3]
 PagerDuty 3:02 PM Triggered #6478 | Problem | Disaster | Average CPUUtilization GreaterThanOrEqualToThreshold 80.0 for ServiceName graderite-portal-worker-prod! Assigned: Brad Guttenberg Service: Monolith
 PagerDuty 3:02 PM Acknowledged #6478 | Problem | Disaster | Average CPUUtilization GreaterThanOrEqualToThreshold... Assigned: Brad Guttenberg Service: Monolith
 PagerDuty 3:06 PM Resolved #6478 | Problem | Disaster | Average CPUUtilization GreaterThanOrEqualToThreshold... Assigned: Brad Guttenberg Service: Monolith
@@ -84,7 +84,7 @@ John 3:10 PM I’m sure nothing will happen… [ded 1]
 David 4:30 PM People are reporting 404’s on the overview page. Are we sure the credentials issue is fixed?
 David 4:33 PM ^ @here
 Anna 4:33 PM Rollbar is showing a spike in JS errors, looking like a routing issue, @John?
-John 4:34 PM Looking into it! [thumbs up 1]
+John 4:34 PM Looking into it! [thumbsup 1]
 Saturday March, 10
 PagerDuty 10:05 AM Triggered #6479 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith
 PagerDuty 10:05 AM Acknowledged #6479 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith
@@ -183,23 +183,23 @@ PagerDuty 12:22 PM Triggered #6484 | Problem | Disaster | Average ApproximateNum
 PagerDuty 12:32 PM Escalated #6484 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: David Castillo Service: Monolith
 PagerDuty 12:42 PM Escalated #6484 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: David Castillo Service: Monolith
 John - Christy
-Friday
+Friday 9
 John 12:31 PM Want to get lunch?
 Christy 12:35 PM I’m on this call with the building manager, no lunch today.
 John 1:34 PM :sadpanda:
-Monday
+Monday 12
 Christy 10:43 AM You’ve got to chill out about the sink.
 Christy 11:20 AM Want to go out for lunch today?
 John 11:21 AM Sure!
 Christy 11:21 AM Lets go at 12:30 after I handle the caterer
 John 11:22 AM SGTM! :heart:
 Christy 2:41 PM You could _not_ be an asshole
-Tuesday
+Tuesday 13
 Christy 11:02 AM Do you want to go up to Erie this weekend?
 John 11:03 AM Don’t you have to officiate that company axe throwing thing?
 Christy 11:03 AM I don’t have to be there for that.
 John 11:04 AM Sure!
-Friday
+Friday 16
 John 11:20 AM I don’t want to freak you out, but brad has a seat in the chart, and his seat is full of real life stuff
 Christy 11:21 AM I’ve already told David, I noticed it this morning. Please don’t tell anyone else, we are getting the locks changed monday
 John 11:21 AM I think people already know, I’ve seen people eye the desk surreptitiously as they walk by
@@ -208,28 +208,28 @@ Christy 2:34 PM Would you like to go camping instead this weekend?
 John 2:36 PM Sure, why?
 Christy 2:37 PM Lets talk after work [thumbsup 1]
 Christy - David
-Friday
+Friday 9
 David 1:35 PM Throw our weight at the manager, we need this fixed today.
 Christy 1:37 PM He literally can’t send anyone out until monday.
 David 1:38 PM Get an independent technician
 Christy 1:39 PM I’ve already looked into it, the contract says that only their technicians can do the work.
-Monday
+Monday 12
 David 2:38 PM This noise has got to stop.
 Christy 2:39 PM I’ll find out if it can get any quieter.
 Christy 3:43 PM The axe throwing place won’t give us the group rate for under 20 people
 David 3:45 PM That’s unacceptable, find another place
 Christy 3:47 PM I’m not sure there _are_ any other axe throwing places
-Tuesday
+Tuesday 13
 David 12:20 PM Book escape the room this weekend instead
 Christy 12:21 PM I already booked the axe place
-Wednesday
+Wednesday 14
 David 2:50 PM How sure are we that this isn’t just a glitch?
 Christy 2:52 PM I’m seeing extensive edits done to our guru cards by this person
 David 2:55 PM Can we revert those changes?
 Christy 2:57 PM I have no idea
 David 3:30 PM Set up a meeting tomorrow morning with everyone on the dream team for this hacking thing
 Christy 3:35 PM Done
-Friday
+Friday 16
 Christy 10:43 AM It looks like someone’s broken into the office. The seating chart has been changed so that the remote seat at the front is listed as brad’s, and there’s a lot of stuff on the desk that wasn’t there before.
 David 10:45 AM WHY WHY WHY???? What’s on the desk?
 Christy 10:46 AM I don’t know, nothing weird. Programming books and stuff, it just looks like a normal desk, but the remote desks are supposed to be clean except for a monitor and a couple other things. There’s way more stuff than that here.

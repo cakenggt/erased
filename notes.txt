@@ -1,0 +1,5 @@
+Regex for testing story:
+^(\w+) (\S+) (\S\S) (.*?)(?: (\[(\S+) (\d)\])+)?$
+
+Substitution (change the date for each day):
+{"author": "$1", "date": "2018-03-21 $2 $3", "text": "$4", "reactions": [{"emoji": "$6", "num": $7}]},
