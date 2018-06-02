@@ -1,1441 +1,1479 @@
 {
-  "general": [
-    {
-      "author": "Christy",
-      "date": "2018-03-09 10:02 AM",
-      "text":
-        "Our NYT article just got published, check it out here: https://www.nytimes.com/2018/03/09/us/teacher-tech-boom.html",
-      "reactions": [
-        { "emoji": "popper", "num": 2 },
-        { "emoji": "hands_up", "num": 3 }
-      ]
-    },
-    {
-      "author": "John",
-      "date": "2018-03-09 10:56 AM",
-      "text":
-        "Whoever keeps leaving dirty dishes in the sink, the sponge is there for a reason…",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-09 12:32 PM",
-      "text":
-        "The elevator isn’t going down when you press the button :sadpanda:",
-      "reactions": [{ "emoji": "danger", "num": 2 }]
-    },
-    {
-      "author": "David",
-      "date": "2018-03-09 1:34 PM",
-      "text": "@christy",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-09 1:36 PM",
-      "text":
-        "The building manager says he won’t be able to get a contractor in until Monday. @here Please use the stairs instead!",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-09 1:37 PM",
-      "text": "New building soon!",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-09 1:37 PM",
-      "text": "#newbuildingnewproblems",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-09 2:10 PM",
-      "text":
-        "The 2018 Q1 workplace survey is here: https://docs.google.com/forms/d/e/1FAIpQLSfGKplxG2FmtyaWW906yO1lvaZ4BKIDkkurAW9fHaG Please fill it out by next Friday!",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-12 10:32 AM",
-      "text":
-        "This dish situation is getting out of hand. You know some of us need our coffee in the morning, and I can’t fill up the boiler with this pile of crap in the sink.",
-      "reactions": [{ "emoji": "poopy", "num": 2 }]
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-12 12:34 PM",
-      "text": "Food incoming in 5 minutes!",
-      "reactions": [{ "emoji": "yay", "num": 3 }]
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-12 12:35 PM",
-      "text": "Can someone help me bring up the food?",
-      "reactions": [{ "emoji": "thumbsup", "num": 1 }]
-    },
-    {
-      "author": "David",
-      "date": "2018-03-12 1:42 PM",
-      "text":
-        "When will the localizations into Russian be finished? I’m getting more than a few concerned emails.",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-12 1:42 PM",
-      "text": "Browser language = ru represents less than 1% of our users",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-12 1:44 PM",
-      "text": "It’s our third largest cohort, put pressure on the translators",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-12 2:30 PM",
-      "text":
-        "Elevator technician is here! Please excuse the noise for the next hour.",
-      "reactions": [{ "emoji": "thumbsup", "num": 1 }]
-    },
-    {
-      "author": "John",
-      "date": "2018-03-12 2:40 PM",
-      "text": "Oh god, when will it stop?",
-      "reactions": [{ "emoji": "ded", "num": 2 }]
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-12 2:44 PM",
-      "text":
-        "I’ve closed the front door, but I’ve been informed that there is no quiet way to do it.",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-12 4:32 PM",
-      "text": "The repair is finished!",
-      "reactions": [{ "emoji": "yay", "num": 3 }]
-    },
-    {
-      "author": "John",
-      "date": "2018-03-12 4:33 PM",
-      "text": "Can we jump in it?",
-      "reactions": [{ "emoji": "ohgodwhy", "num": 1 }]
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-12 4:33 PM",
-      "text": "Please no…",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-13 11:36 AM",
-      "text":
-        "I’m so excited about axe throwing! I’ve always wanted to do it! Thanks Christy!",
-      "reactions": [{ "emoji": "yay", "num": 2 }, { "emoji": "+1", "num": 3 }]
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-13 11:38 AM",
-      "text": "Aww thanks!",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-13 12:31 PM",
-      "text":
-        "Lunch incoming! And we will be having cake afterwards to celebrate March birthdays!",
-      "reactions": [{ "emoji": "yay", "num": 3 }, { "emoji": "cake", "num": 2 }]
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-14 11:46 AM",
-      "text":
-        "@christy would you happen to have the contact info for Brad Gutenberg? He’s a contractor",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-14 11:56 AM",
-      "text":
-        "@ajay I can’t find that name in upwork, do you know if they were last active before June last year? We switched systems then",
-      "reactions": []
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-14 11:58 AM",
-      "text": "It seems like they committed recently, I’ll look into it more",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-15 10:22 AM",
-      "text":
-        "@here Everyone look through your guru cards and any google products for edits from a “Brad Gutenberg”. It appears that an account was illicitly added to our org and they may have changed some of our docs",
-      "reactions": [{ "emoji": "thumbsup", "num": 3 }]
-    },
-    {
-      "author": "John",
-      "date": "2018-03-15 10:23 AM",
-      "text":
-        "Is this the same account that we are looking for in github? They hacked google and github? Scary",
-      "reactions": [
-        { "emoji": "wizard", "num": 1 },
-        { "emoji": "ghost", "num": 1 }
-      ]
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-15 12:27 PM",
-      "text": "Thanks @ajay for bringing this to our attention",
-      "reactions": [{ "emoji": "yay", "num": 3 }]
-    },
-    {
-      "author": "David",
-      "date": "2018-03-15 1:45 PM",
-      "text":
-        "We just closed the Pearson deal! Thanks to everyone who made this possible over the last few months!",
-      "reactions": [
-        { "emoji": "yay", "num": 5 },
-        { "emoji": "popper", "num": 3 }
-      ]
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-16 10:43 AM",
-      "text":
-        "@christy I’m not anywhere close to finished with looking through my emails because of the code audit, but from doing a quick search it seems like many many emails have been inserted into my inbox that reference brad or are from brad. I don’t know why they are here, it’s like they are trying to convince us he works here.",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-16 10:45 AM",
-      "text":
-        "Maybe that’s the plan, it might have worked if we were a bigger company, but it’s hard to believe this is their endgame if they have access to all of our github and google accounts.",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-16 11:25 AM",
-      "text":
-        "You may have noticed the desk at the front of the office labeled “Brad” in the seating chart. Please don’t touch anything on it, we are having the police come in later today to look at it.",
-      "reactions": [{ "emoji": "ghost", "num": 3 }]
-    },
-    {
-      "author": "David",
-      "date": "2018-03-16 11:28 AM",
-      "text": "@here Meeting at the couches now",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-16 3:20 PM",
-      "text":
-        "@here Let me know if you think anything is missing from your desk.",
-      "reactions": []
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-19 11:10 AM",
-      "text":
-        "@here Theres a person here from steel city locksmiths, does anyone know anything about that?",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-19 11:24 AM",
-      "text":
-        "They said that “Christy” scheduled an appointment to change the locks on the front and back doors. @here look through your emails for this person",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-19 11:35 AM",
-      "text":
-        "I can tell you right now that the issue is a lot bigger than we thought. There are a ton of emails in my inbox from christy, and theres a lot from brad as well. It looks like this goes a lot further than just github",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-19 11:42 AM",
-      "text":
-        "I’m seeing the same thing, emails from brad and christy. How did they get into github AND google!?",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-19 11:45 AM",
-      "text":
-        "I don’t know about anyone else, but I’m seeing emails that are from me that I definitely didn’t send. This seems to be way bigger than just someone added to our org",
-      "reactions": [{ "emoji": "+1", "num": 2 }]
-    },
-    {
-      "author": "David",
-      "date": "2018-03-19 11:47 AM",
-      "text":
-        "This is too much this morning, I say we officially break for early lunch. Where to?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-19 11:48 AM",
-      "text": "Elbow room!",
-      "reactions": [{ "emoji": "+1", "num": 2 }, { "emoji": "yuk", "num": 1 }]
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-19 11:50 AM",
-      "text": "To the elevator!",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-19 1:50 PM",
-      "text": "I’ll be on the phone with customer support all day at this rate",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-19 2:15 PM",
-      "text":
-        "Theres another suspicious desk in the office, stay away from the first desk to the left of the door.",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-19 2:17 PM",
-      "text": "How did we miss this when the police were here?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-19 2:20 PM",
-      "text":
-        "I think ill work from home for the rest of the day. I’ve got a splitting headache from that undercooked pasta",
-      "reactions": [{ "emoji": "thumbsup", "num": 2 }]
-    },
-    {
-      "author": "David",
-      "date": "2018-03-19 2:27 PM",
-      "text":
-        "I’ve printed up our org chart and taped it to the pillar. Let me know if theres anyone on here you don’t recognize besides christy and brad.",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-20 11:17 AM",
-      "text":
-        "@here I’ve put a bunch of things on the table next to the couches. Let me know if theres anything you recognize",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-20 11:23 AM",
-      "text":
-        "@john this keyboard definitely used to be mine, where did you find this stuff?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-20 11:52 AM",
-      "text": "Not feeling well again, I think ill work from home.",
-      "reactions": [{ "emoji": "sick", "num": 1 }]
-    },
-    {
-      "author": "David",
-      "date": "2018-03-20 12:05 PM",
-      "text": "I’m having pizza brought in, what toppings does everyone want?",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-20 12:06 PM",
-      "text": "pepperoni and cheese!",
-      "reactions": [{ "emoji": "+1", "num": 1 }]
-    },
-    {
-      "author": "David",
-      "date": "2018-03-20 1:54 PM",
-      "text":
-        "@here I’ll be working from home for the rest of the week tracking down these issues we’ve been having. I don’t know about my connectivity tomorrow and day after, but I should be reachable by friday",
-      "reactions": [
-        { "emoji": "thumbsup", "num": 2 },
-        { "emoji": "spy", "num": 1 }
-      ]
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-21 11:37 AM",
-      "text": "What’s happening for lunch today?",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-21 11:38 AM",
-      "text": "Want to get Mercurio’s at noon?",
-      "reactions": [{ "emoji": "baymax_yes", "num": 1 }]
-    }
-  ],
-  "engineering": [
-    {
-      "author": "Anna",
-      "date": "2018-03-9 9:10 AM",
-      "text":
-        "Remember to let me know before 5PM if you want to go to Google I/O this year.",
-      "reactions": [{ "emoji": "thumbsup", "num": 3 }]
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-9 11:32 AM",
-      "text":
-        "Triggered #6476 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-9 11:33 AM",
-      "text":
-        "Acknowledged #6476 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-9 11:33 AM",
-      "text":
-        "Triggered #6477 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-9 11:33 AM",
-      "text":
-        "Acknowledged #6477 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-9 11:42 AM",
-      "text":
-        "Resolved #6477 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-9 11:42 AM",
-      "text":
-        "Resolved #6476 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-9 1:50 PM",
-      "text":
-        "The diagnostics site is up! You can go to graderite.com/diagnostics to see user statistics, emulate users, and more! Make sure you are logged in to your admin accounts.",
-      "reactions": [{ "emoji": "yay", "num": 2 }]
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-9 1:51 PM",
-      "text": "This tool is amazing! Thanks John!",
-      "reactions": [{ "emoji": "+1", "num": 2 }]
-    },
-    {
-      "author": "Brad",
-      "date": "2018-03-9 2:52 PM",
-      "text":
-        "I’ll be out of cell range all weekend while I’m hiking Allegheny National Forest. John is on call and should be next point of contact for anything going wrong with monolith.",
-      "reactions": [{ "emoji": "thumbsup", "num": 3 }]
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-9 3:02 PM",
-      "text":
-        "Triggered #6478 | Problem | Disaster | Average CPUUtilization GreaterThanOrEqualToThreshold 80.0 for ServiceName graderite-portal-worker-prod! Assigned: Brad Guttenberg Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-9 3:02 PM",
-      "text":
-        "Acknowledged #6478 | Problem | Disaster | Average CPUUtilization GreaterThanOrEqualToThreshold... Assigned: Brad Guttenberg Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-9 3:06 PM",
-      "text":
-        "Resolved #6478 | Problem | Disaster | Average CPUUtilization GreaterThanOrEqualToThreshold... Assigned: Brad Guttenberg Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-9 3:08 PM",
-      "text": "Oh god, don’t leave us!",
-      "reactions": [{ "emoji": "laughing", "num": 3 }]
-    },
-    {
-      "author": "John",
-      "date": "2018-03-9 3:10 PM",
-      "text": "I’m sure nothing will happen…",
-      "reactions": [{ "emoji": "ded", "num": 1 }]
-    },
-    {
-      "author": "David",
-      "date": "2018-03-9 4:30 PM",
-      "text":
-        "People are reporting 404’s on the overview page. Are we sure the credentials issue is fixed?",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-9 4:33 PM",
-      "text": "^ @here",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-9 4:33 PM",
-      "text":
-        "Rollbar is showing a spike in JS errors, looking like a routing issue, @John?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-9 4:34 PM",
-      "text": "Looking into it!",
-      "reactions": [{ "emoji": "thumbsup", "num": 1 }]
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-10 10:05 AM",
-      "text":
-        "Triggered #6479 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-10 10:05 AM",
-      "text":
-        "Acknowledged #6479 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-10 10:06 AM",
-      "text": "@here whats going on?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-10 10:07 AM",
-      "text":
-        "It looks like it’s a temporary spike, queue length going down again",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-10 10:07 AM",
-      "text":
-        "Acknowledged #6479 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-10 10:07 AM",
-      "text": "I’ll have Brad look into it on Monday",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-12 11:16 AM",
-      "text":
-        "I just noticed a bot unassigned my PR’s reviewer. What is going on?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-12 11:17 AM",
-      "text":
-        "After commenting, the graderite bot unassigns the reviewer so the owner can address the issue",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-12 11:17 AM",
-      "text": "When did this start? And is it referenced anywhere?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-12 11:18 AM",
-      "text":
-        "Last week, it’s in the guru card: https://app.getguru.com/#/facts/38beb0ba-a0ec-4cdd-81df-4c7f34a44e07",
-      "reactions": [{ "emoji": "thanks", "num": 1 }]
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-12 11:45 AM",
-      "text":
-        "Here’s your periodic reminder that GDPR begins in May. Make sure you are following all the steps in this card for your owned repos: https://app.getguru.com/#/facts/5e90af78-41e1-42a2-8a5c-491c92b83c2d",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-12 1:32 PM",
-      "text":
-        "Can anyone explain what this spike is on March 3? https://metrics.graderite.com/segmentation#aggregation:(type:unique),analysis:linear,chartType:line,dateEnd:'0',dateStart:'12',eventName:welcome,timeUnit:day",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-12 1:34 PM",
-      "text":
-        "This seems to correspond with a spike in forum posts, which matches with the “sexy local schoolteacher” problem.",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-12 1:35 PM",
-      "text": "Bots?",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-12 1:35 PM",
-      "text": "Looks like it.",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-12 2:24 PM",
-      "text":
-        "We’ve identified that the localization backend is costing us a lot for the amount of work it should be doing. I’ve written up a preliminary spec about transferring it over to Scala, please take a look: https://docs.google.com/document/d/1mJnOx5koOATe8MhQ1Ni2m2aK-g7QnZZlkNyYqJtAFws/edit?usp=sharing",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-12 3:17 PM",
-      "text":
-        "Triggered #6480 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-12 3:18 PM",
-      "text": "@john is this the same problem from the weekend?",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-12 3:18 PM",
-      "text":
-        "Acknowledged #6480 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-12 3:19 PM",
-      "text": "It looks like it. Keeping an eye on the queue",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-12 3:20 PM",
-      "text": "Is this user facing?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-12 3:21 PM",
-      "text": "Users won’t notice this latency, it’s just for notifications",
-      "reactions": [{ "emoji": "thumbsup", "num": 1 }]
-    },
-    {
-      "author": "John",
-      "date": "2018-03-12 3:25 PM",
-      "text": "It’s going down again.",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-12 3:25 PM",
-      "text":
-        "Resolved #6480 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-13 11:13 AM",
-      "text": "@john Did you find anything about the queue",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-13 11:15 AM",
-      "text":
-        "Thanks to @anna and @ajay I was able to find that the scaling policy wasn’t set up correctly to deal with our newly increased user base. I increased the max machines",
-      "reactions": [{ "emoji": "thumbsup", "num": 1 }]
-    },
-    {
-      "author": "David",
-      "date": "2018-03-13 11:25 AM",
-      "text":
-        "Is anyone on top of periodically reviewing things like this as our DAUs grow?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-13 11:26 AM",
-      "text": "Not atm, @ajay?",
-      "reactions": []
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-13 11:28 AM",
-      "text": "Sure",
-      "reactions": []
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-13 12:15 PM",
-      "text":
-        "I’m trying to merge in my big transfer change, but the jenkins ci task is failing. Who would I ask about that kind of thing?",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-13 2:20 PM",
-      "text":
-        "@here It looks like the load on the reports db is spiking, does anyone know of something that may be querying it? Welcomes are steady",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-13 2:27 PM",
-      "text":
-        "Looks like a runaway query in the diagnostics dashboard. I’ve shut down the dashboard for now until I push the fix.",
-      "reactions": [{ "emoji": "thanks", "num": 1 }]
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-13 3:24 PM",
-      "text":
-        "Would it be possible to force-merge this change since the jenkins is failing?",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-13 3:25 PM",
-      "text":
-        "I think we should wait until we get the ci back up. Do you need help?",
-      "reactions": [{ "emoji": "thumbsup", "num": 1 }]
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-14 11:25 AM",
-      "text":
-        "Where would I look for mapping between github usernames and employee names?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-14 11:27 AM",
-      "text": "There’s already a card in guru for this.",
-      "reactions": []
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-14 11:43 AM",
-      "text": "Who would have the contractor contact information?",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-14 11:45 AM",
-      "text": "Christy would",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-15 10:23 AM",
-      "text":
-        "@here Some of our accounts might have been hacked, including our github. We need each of the platform owners to look through the commits by `bgutenberg` to find out what they changed.",
-      "reactions": [
-        { "emoji": "thumbsup", "num": 3 },
-        { "emoji": "secret-agent", "num": 1 }
-      ]
-    },
-    {
-      "author": "John",
-      "date": "2018-03-15 10:25 AM",
-      "text":
-        "Is this the same account on guru and google? How did this happen?!?",
-      "reactions": [{ "emoji": "shrug", "num": 1 }]
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-15 11:35 AM",
-      "text": "@here engineering meeting today cancelled",
-      "reactions": []
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-15 12:20 PM",
-      "text":
-        "The jenkins ci has been fixed! Thanks @anna! You can now retrigger your ci by commenting `run ci` in your pr",
-      "reactions": [{ "emoji": "yay", "num": 2 }]
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-15 2:23 PM",
-      "text":
-        "Would any repo checkers be free to give the final check on my transfer pr? #56",
-      "reactions": [{ "emoji": "thumbsup", "num": 1 }]
-    },
-    {
-      "author": "David",
-      "date": "2018-03-16 10:16 AM",
-      "text":
-        "@here How long will it take to revert all of these fake commits?",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-16 10:20 AM",
-      "text":
-        "I’m not sure that’s possible. There are hundreds of them across a huge number of files.",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-16 10:32 AM",
-      "text":
-        "I’m finding the same thing, there doesn’t seem to be any malicious pattern to it either. They reference Jira issues that this account is assigned to, and they appear to fix the issues that they are associated with.",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-16 10:35 AM",
-      "text":
-        "They’ve gone through a weird amount of effort too. A lot of comments on these issues are spoofed from our accounts. Also their comments and reviews appear on closed pr’s.",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-16 10:42 AM",
-      "text":
-        "Could they have force pushed branches to rewrite their commit history?",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-16 10:46 AM",
-      "text":
-        "Yes, but I don’t know how they inserted historical comments in pr’s and such in github",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-16 10:53 AM",
-      "text":
-        "Who keeps their laptop in the office overnight, and what permissions do you have in the repo?",
-      "reactions": []
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-16 11:15 AM",
-      "text": "I don’t.",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-16 11:16 AM",
-      "text": "I don’t think anyone doesn’t take their laptop home",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-16 1:25 PM",
-      "text":
-        "Triggered #6481 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-16 1:25 PM",
-      "text":
-        "Acknowledged #6481 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-16 1:26 PM",
-      "text": "Should I stop my virus scan to look at the queue?",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-16 1:26 PM",
-      "text": "Keep scanning, you can use my computer to log in, I’m finished",
-      "reactions": [{ "emoji": "thanks", "num": 1 }]
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-16 1:27 PM",
-      "text":
-        "Resolved #6481 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-16 2:15 PM",
-      "text":
-        "@ajay can you take a look at the graderite-social for bgutenberg?",
-      "reactions": [{ "emoji": "thumbsup", "num": 1 }]
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-16 2:34 PM",
-      "text": "Did anyone modify the virtualenv on next recently?",
-      "reactions": []
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-16 2:37 PM",
-      "text": "false alarm",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-17 2:15 PM",
-      "text":
-        "Triggered #6482 | ALARM: \"new-worker queue jump above 250,000 messages\" in US East (N. Virginia) Assigned: John Lovington Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-17 2:20 PM",
-      "text":
-        "Escalated #6482 | ALARM: \"new-worker queue jump above 250,000 messages\" in US East (N. Virginia) Assigned: Anna Chan Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-17 2:22 PM",
-      "text":
-        "Acknowledged #6482 | ALARM: \"new-worker queue jump above 250,000 messages\" in US East (N. Virginia) Assigned: Anna Chan Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-17 2:23 PM",
-      "text": "I’ll just wait and see if it goes back down",
-      "reactions": [{ "emoji": "thumbsup", "num": 1 }]
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-17 2:30 PM",
-      "text":
-        "Resolved #6482 | ALARM: \"new-worker queue jump above 250,000 messages\" in US East (N. Virginia) Assigned: Anna Chan Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-19 10:34 AM",
-      "text":
-        "I finished up the audits on my repos this weekend. I found changes by bgutenberg all the way through, but nothing appears suspicious in the changes",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-19 10:37 AM",
-      "text":
-        "Me too, nothing so suspicious here, besides some bad coding practices. Exploits however, I found none of",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-19 10:41 AM",
-      "text": "What sort of bad coding practices?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-19 10:42 AM",
-      "text":
-        "One of the DALs wasn’t using the connection pool, but I don’t think this could be used to hurt us unless someone really hammered the server with requests for notifications or something",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-19 10:45 AM",
-      "text": "How soon do you think you could have a patch in for that?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-19 10:46 AM",
-      "text": "This afternoon I could get it into code review",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-19 11:25 AM",
-      "text":
-        "@here look through the repos again for any more commits from unknowns, there may be some from someone named christy",
-      "reactions": [{ "emoji": "thumbsup", "num": 2 }]
-    },
-    {
-      "author": "David",
-      "date": "2018-03-19 1:08 PM",
-      "text":
-        "How many guru cards show touched by these two? Is there a history tool we can use to revert these to a previous state?",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-19 1:15 PM",
-      "text":
-        "Not many by brad, but a lot by christy. There is a tool, but it shows edits for a long time back done by them. It seems like theyve been editing cards on the down low for a long time and we never noticed",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-19 1:16 PM",
-      "text": "Could it be that they were hacked like google and github?",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-19 1:16 PM",
-      "text": "it just seems too farfetched for guru too",
-      "reactions": []
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-20 10:50 AM",
-      "text":
-        "what’s the overall plan with tasks now. Are we still doing things in order?",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-20 10:52 AM",
-      "text":
-        "I would say yes, keep on working on your assigned tasks until we find out what restructuring we have to do",
-      "reactions": []
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-20 10:53 AM",
-      "text": "Even for tasks assigned by brad?",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-20 10:53 AM",
-      "text": "not those…",
-      "reactions": []
-    },
-    {
-      "author": "Ajay",
-      "date": "2018-03-21 10:43 AM",
-      "text": "@anna would you be able to give me some tasks, I’m fresh out",
-      "reactions": [{ "emoji": "thumbsup", "num": 1 }]
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-21 11:55 AM",
-      "text":
-        "Triggered #6483 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-21 11:55 AM",
-      "text":
-        "Resolved #6483 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "Anna",
-      "date": "2018-03-21 11:55 AM",
-      "text":
-        "I resolved and reassigned. @david is pagerduty affected now too? I don’t think john lovington works here",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-21 12:22 PM",
-      "text":
-        "Triggered #6484 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: Anna Chan Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-21 12:32 PM",
-      "text":
-        "Escalated #6484 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: David Castillo Service: Monolith",
-      "reactions": []
-    },
-    {
-      "author": "PagerDuty",
-      "date": "2018-03-21 12:42 PM",
-      "text":
-        "Escalated #6484 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: David Castillo Service: Monolith",
-      "reactions": []
-    }
-  ],
-  "john-christy": [
-    {
-      "author": "John",
-      "date": "2018-03-9 12:31 PM",
-      "text": "Want to get lunch?",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-9 12:35 PM",
-      "text": "I’m on this call with the building manager, no lunch today.",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-9 1:34 PM",
-      "text": ":sadpanda:",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-12 10:43 AM",
-      "text": "You’ve got to chill out about the sink.",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-12 11:20 AM",
-      "text": "Want to go out for lunch today?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-12 11:21 AM",
-      "text": "Sure!",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-12 11:21 AM",
-      "text": "Lets go at 12:30 after I handle the caterer",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-12 11:22 AM",
-      "text": "SGTM! :heart:",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-12 2:41 PM",
-      "text": "You could _not_ be an asshole",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-13 11:02 AM",
-      "text": "Do you want to go up to Erie this weekend?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-13 11:03 AM",
-      "text": "Don’t you have to officiate that company axe throwing thing?",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-13 11:03 AM",
-      "text": "I don’t have to be there for that.",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-13 11:04 AM",
-      "text": "Sure!",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-16 11:20 AM",
-      "text":
-        "I don’t want to freak you out, but brad has a seat in the chart, and his seat is full of real life stuff",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-16 11:21 AM",
-      "text":
-        "I’ve already told David, I noticed it this morning. Please don’t tell anyone else, we are getting the locks changed monday",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-16 11:21 AM",
-      "text":
-        "I think people already know, I’ve seen people eye the desk surreptitiously as they walk by",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-16 11:22 AM",
-      "text": "Oh man",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-16 2:34 PM",
-      "text": "Would you like to go camping instead this weekend?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-16 2:36 PM",
-      "text": "Sure, why?",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-16 2:37 PM",
-      "text": "Lets talk after work",
-      "reactions": [{ "emoji": "thumbsup", "num": 1 }]
-    }
-  ],
-  "christy-david": [
-    {
-      "author": "David",
-      "date": "2018-03-9 1:35 PM",
-      "text": "Throw our weight at the manager, we need this fixed today.",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-9 1:37 PM",
-      "text": "He literally can’t send anyone out until monday.",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-9 1:38 PM",
-      "text": "Get an independent technician",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-9 1:39 PM",
-      "text":
-        "I’ve already looked into it, the contract says that only their technicians can do the work.",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-12 2:38 PM",
-      "text": "This noise has got to stop.",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-12 2:39 PM",
-      "text": "I’ll find out if it can get any quieter.",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-12 3:43 PM",
-      "text":
-        "The axe throwing place won’t give us the group rate for under 20 people",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-12 3:45 PM",
-      "text": "That’s unacceptable, find another place",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-12 3:47 PM",
-      "text": "I’m not sure there _are_ any other axe throwing places",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-13 12:20 PM",
-      "text": "Book escape the room this weekend instead",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-13 12:21 PM",
-      "text": "I already booked the axe place",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-14 2:50 PM",
-      "text": "How sure are we that this isn’t just a glitch?",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-14 2:52 PM",
-      "text":
-        "I’m seeing extensive edits done to our guru cards by this person",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-14 2:55 PM",
-      "text": "Can we revert those changes?",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-14 2:57 PM",
-      "text": "I have no idea",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-14 3:30 PM",
-      "text":
-        "Set up a meeting tomorrow morning with everyone on the dream team for this hacking thing",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-14 3:35 PM",
-      "text": "Done",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-16 10:43 AM",
-      "text":
-        "It looks like someone’s broken into the office. The seating chart has been changed so that the remote seat at the front is listed as brad’s, and there’s a lot of stuff on the desk that wasn’t there before.",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-16 10:45 AM",
-      "text": "WHY WHY WHY???? What’s on the desk?",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-16 10:46 AM",
-      "text":
-        "I don’t know, nothing weird. Programming books and stuff, it just looks like a normal desk, but the remote desks are supposed to be clean except for a monitor and a couple other things. There’s way more stuff than that here.",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-16 10:52 AM",
-      "text":
-        "Get a locksmith in here and change all the locks. We need to start physically locking the glass door, I don’t trust this magnetic lock",
-      "reactions": []
-    },
-    {
-      "author": "Christy",
-      "date": "2018-03-16 10:53 AM",
-      "text": "I’m already on the phone to the landlord",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-16 10:55 AM",
-      "text":
-        "check your records, the ip they could steal is way more valuable than whatever half baked plan is going on here",
-      "reactions": []
-    }
-  ],
-  "john-david": [
-    {
-      "author": "John",
-      "date": "2018-03-20 11:24 AM",
-      "text":
-        "I think christie might have actually worked here as our office manager",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-20 11:25 AM",
-      "text": "when?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-20 11:25 AM",
-      "text": "I think as recently as this week",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-20 11:26 AM",
-      "text": "what do you mean?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-20 11:28 AM",
-      "text":
-        "there was a lot of stuff in my apartment that I don’t remember getting. More than a few things had christie’s name on it",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-20 11:30 AM",
-      "text":
-        "but maybe the weirdest thing is that I found a lot of slack messages between me and her, and some of them talked about us going hiking together last weekend",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-20 11:31 AM",
-      "text": "But you didn’t go hiking last weekend?",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-20 11:34 AM",
-      "text":
-        "no, but i DID go to Allegheny National Forest, I didn’t tell anyone though. I was going to hike, but I didn’t feel into it and I left after a bit.",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-20 11:35 AM",
-      "text":
-        "I did a search for that place in slack though, and I found a message from brad saying that he was going there two weekends ago. I don’t remember him, and I don’t remember her, but I can’t explain why I was there. I don’t even like hiking",
-      "reactions": []
-    },
-    {
-      "author": "John",
-      "date": "2018-03-20 11:36 AM",
-      "text":
-        "I think christie and I went there to look for brad, and I think we were living together too.",
-      "reactions": []
-    },
-    {
-      "author": "David",
-      "date": "2018-03-20 11:36 AM",
-      "text": "Lets talk in the meeting room",
-      "reactions": []
-    }
-  ]
+  "channels": {
+    "public": [
+      {
+        "name": "general",
+        "messages": [
+          {
+            "author": "Christy",
+            "date": "2018-03-09 10:02 AM",
+            "text":
+              "Our NYT article just got published, check it out here: https://www.nytimes.com/2018/03/09/us/teacher-tech-boom.html",
+            "reactions": [
+              { "emoji": "popper", "num": 2 },
+              { "emoji": "hands_up", "num": 3 }
+            ]
+          },
+          {
+            "author": "John",
+            "date": "2018-03-09 10:56 AM",
+            "text":
+              "Whoever keeps leaving dirty dishes in the sink, the sponge is there for a reason…",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-09 12:32 PM",
+            "text":
+              "The elevator isn’t going down when you press the button :sadpanda:",
+            "reactions": [{ "emoji": "danger", "num": 2 }]
+          },
+          {
+            "author": "David",
+            "date": "2018-03-09 1:34 PM",
+            "text": "@christy",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-09 1:36 PM",
+            "text":
+              "The building manager says he won’t be able to get a contractor in until Monday. @here Please use the stairs instead!",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-09 1:37 PM",
+            "text": "New building soon!",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-09 1:37 PM",
+            "text": "#newbuildingnewproblems",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-09 2:10 PM",
+            "text":
+              "The 2018 Q1 workplace survey is here: https://docs.google.com/forms/d/e/1FAIpQLSfGKplxG2FmtyaWW906yO1lvaZ4BKIDkkurAW9fHaG Please fill it out by next Friday!",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-12 10:32 AM",
+            "text":
+              "This dish situation is getting out of hand. You know some of us need our coffee in the morning, and I can’t fill up the boiler with this pile of crap in the sink.",
+            "reactions": [{ "emoji": "poopy", "num": 2 }]
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-12 12:34 PM",
+            "text": "Food incoming in 5 minutes!",
+            "reactions": [{ "emoji": "yay", "num": 3 }]
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-12 12:35 PM",
+            "text": "Can someone help me bring up the food?",
+            "reactions": [{ "emoji": "thumbsup", "num": 1 }]
+          },
+          {
+            "author": "David",
+            "date": "2018-03-12 1:42 PM",
+            "text":
+              "When will the localizations into Russian be finished? I’m getting more than a few concerned emails.",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-12 1:42 PM",
+            "text":
+              "Browser language = ru represents less than 1% of our users",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-12 1:44 PM",
+            "text":
+              "It’s our third largest cohort, put pressure on the translators",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-12 2:30 PM",
+            "text":
+              "Elevator technician is here! Please excuse the noise for the next hour.",
+            "reactions": [{ "emoji": "thumbsup", "num": 1 }]
+          },
+          {
+            "author": "John",
+            "date": "2018-03-12 2:40 PM",
+            "text": "Oh god, when will it stop?",
+            "reactions": [{ "emoji": "ded", "num": 2 }]
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-12 2:44 PM",
+            "text":
+              "I’ve closed the front door, but I’ve been informed that there is no quiet way to do it.",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-12 4:32 PM",
+            "text": "The repair is finished!",
+            "reactions": [{ "emoji": "yay", "num": 3 }]
+          },
+          {
+            "author": "John",
+            "date": "2018-03-12 4:33 PM",
+            "text": "Can we jump in it?",
+            "reactions": [{ "emoji": "ohgodwhy", "num": 1 }]
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-12 4:33 PM",
+            "text": "Please no…",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-13 11:36 AM",
+            "text":
+              "I’m so excited about axe throwing! I’ve always wanted to do it! Thanks Christy!",
+            "reactions": [
+              { "emoji": "yay", "num": 2 },
+              { "emoji": "+1", "num": 3 }
+            ]
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-13 11:38 AM",
+            "text": "Aww thanks!",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-13 12:31 PM",
+            "text":
+              "Lunch incoming! And we will be having cake afterwards to celebrate March birthdays!",
+            "reactions": [
+              { "emoji": "yay", "num": 3 },
+              { "emoji": "cake", "num": 2 }
+            ]
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-14 11:46 AM",
+            "text":
+              "@christy would you happen to have the contact info for Brad Gutenberg? He’s a contractor",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-14 11:56 AM",
+            "text":
+              "@ajay I can’t find that name in upwork, do you know if they were last active before June last year? We switched systems then",
+            "reactions": []
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-14 11:58 AM",
+            "text":
+              "It seems like they committed recently, I’ll look into it more",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-15 10:22 AM",
+            "text":
+              "@here Everyone look through your guru cards and any google products for edits from a “Brad Gutenberg”. It appears that an account was illicitly added to our org and they may have changed some of our docs",
+            "reactions": [{ "emoji": "thumbsup", "num": 3 }]
+          },
+          {
+            "author": "John",
+            "date": "2018-03-15 10:23 AM",
+            "text":
+              "Is this the same account that we are looking for in github? They hacked google and github? Scary",
+            "reactions": [
+              { "emoji": "wizard", "num": 1 },
+              { "emoji": "ghost", "num": 1 }
+            ]
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-15 12:27 PM",
+            "text": "Thanks @ajay for bringing this to our attention",
+            "reactions": [{ "emoji": "yay", "num": 3 }]
+          },
+          {
+            "author": "David",
+            "date": "2018-03-15 1:45 PM",
+            "text":
+              "We just closed the Pearson deal! Thanks to everyone who made this possible over the last few months!",
+            "reactions": [
+              { "emoji": "yay", "num": 5 },
+              { "emoji": "popper", "num": 3 }
+            ]
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-16 10:43 AM",
+            "text":
+              "@christy I’m not anywhere close to finished with looking through my emails because of the code audit, but from doing a quick search it seems like many many emails have been inserted into my inbox that reference brad or are from brad. I don’t know why they are here, it’s like they are trying to convince us he works here.",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-16 10:45 AM",
+            "text":
+              "Maybe that’s the plan, it might have worked if we were a bigger company, but it’s hard to believe this is their endgame if they have access to all of our github and google accounts.",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-16 11:25 AM",
+            "text":
+              "You may have noticed the desk at the front of the office labeled “Brad” in the seating chart. Please don’t touch anything on it, we are having the police come in later today to look at it.",
+            "reactions": [{ "emoji": "ghost", "num": 3 }]
+          },
+          {
+            "author": "David",
+            "date": "2018-03-16 11:28 AM",
+            "text": "@here Meeting at the couches now",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-16 3:20 PM",
+            "text":
+              "@here Let me know if you think anything is missing from your desk.",
+            "reactions": []
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-19 11:10 AM",
+            "text":
+              "@here Theres a person here from steel city locksmiths, does anyone know anything about that?",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-19 11:24 AM",
+            "text":
+              "They said that “Christy” scheduled an appointment to change the locks on the front and back doors. @here look through your emails for this person",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-19 11:35 AM",
+            "text":
+              "I can tell you right now that the issue is a lot bigger than we thought. There are a ton of emails in my inbox from christy, and theres a lot from brad as well. It looks like this goes a lot further than just github",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-19 11:42 AM",
+            "text":
+              "I’m seeing the same thing, emails from brad and christy. How did they get into github AND google!?",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-19 11:45 AM",
+            "text":
+              "I don’t know about anyone else, but I’m seeing emails that are from me that I definitely didn’t send. This seems to be way bigger than just someone added to our org",
+            "reactions": [{ "emoji": "+1", "num": 2 }]
+          },
+          {
+            "author": "David",
+            "date": "2018-03-19 11:47 AM",
+            "text":
+              "This is too much this morning, I say we officially break for early lunch. Where to?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-19 11:48 AM",
+            "text": "Elbow room!",
+            "reactions": [
+              { "emoji": "+1", "num": 2 },
+              { "emoji": "yuk", "num": 1 }
+            ]
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-19 11:50 AM",
+            "text": "To the elevator!",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-19 1:50 PM",
+            "text":
+              "I’ll be on the phone with customer support all day at this rate",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-19 2:15 PM",
+            "text":
+              "Theres another suspicious desk in the office, stay away from the first desk to the left of the door.",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-19 2:17 PM",
+            "text": "How did we miss this when the police were here?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-19 2:20 PM",
+            "text":
+              "I think ill work from home for the rest of the day. I’ve got a splitting headache from that undercooked pasta",
+            "reactions": [{ "emoji": "thumbsup", "num": 2 }]
+          },
+          {
+            "author": "David",
+            "date": "2018-03-19 2:27 PM",
+            "text":
+              "I’ve printed up our org chart and taped it to the pillar. Let me know if theres anyone on here you don’t recognize besides christy and brad.",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-20 11:17 AM",
+            "text":
+              "@here I’ve put a bunch of things on the table next to the couches. Let me know if theres anything you recognize",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-20 11:23 AM",
+            "text":
+              "@john this keyboard definitely used to be mine, where did you find this stuff?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-20 11:52 AM",
+            "text": "Not feeling well again, I think ill work from home.",
+            "reactions": [{ "emoji": "sick", "num": 1 }]
+          },
+          {
+            "author": "David",
+            "date": "2018-03-20 12:05 PM",
+            "text":
+              "I’m having pizza brought in, what toppings does everyone want?",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-20 12:06 PM",
+            "text": "pepperoni and cheese!",
+            "reactions": [{ "emoji": "+1", "num": 1 }]
+          },
+          {
+            "author": "David",
+            "date": "2018-03-20 1:54 PM",
+            "text":
+              "@here I’ll be working from home for the rest of the week tracking down these issues we’ve been having. I don’t know about my connectivity tomorrow and day after, but I should be reachable by friday",
+            "reactions": [
+              { "emoji": "thumbsup", "num": 2 },
+              { "emoji": "spy", "num": 1 }
+            ]
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-21 11:37 AM",
+            "text": "What’s happening for lunch today?",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-21 11:38 AM",
+            "text": "Want to get Mercurio’s at noon?",
+            "reactions": [{ "emoji": "baymax_yes", "num": 1 }]
+          }
+        ]
+      },
+      {
+        "name": "engineering",
+        "messages": [
+          {
+            "author": "Anna",
+            "date": "2018-03-9 9:10 AM",
+            "text":
+              "Remember to let me know before 5PM if you want to go to Google I/O this year.",
+            "reactions": [{ "emoji": "thumbsup", "num": 3 }]
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-9 11:32 AM",
+            "text":
+              "Triggered #6476 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-9 11:33 AM",
+            "text":
+              "Acknowledged #6476 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-9 11:33 AM",
+            "text":
+              "Triggered #6477 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-9 11:33 AM",
+            "text":
+              "Acknowledged #6477 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-9 11:42 AM",
+            "text":
+              "Resolved #6477 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-9 11:42 AM",
+            "text":
+              "Resolved #6476 | Problem | Disaster | No space left on volume /! Assigned: Brad Guttenberg Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-9 1:50 PM",
+            "text":
+              "The diagnostics site is up! You can go to graderite.com/diagnostics to see user statistics, emulate users, and more! Make sure you are logged in to your admin accounts.",
+            "reactions": [{ "emoji": "yay", "num": 2 }]
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-9 1:51 PM",
+            "text": "This tool is amazing! Thanks John!",
+            "reactions": [{ "emoji": "+1", "num": 2 }]
+          },
+          {
+            "author": "Brad",
+            "date": "2018-03-9 2:52 PM",
+            "text":
+              "I’ll be out of cell range all weekend while I’m hiking Allegheny National Forest. John is on call and should be next point of contact for anything going wrong with monolith.",
+            "reactions": [{ "emoji": "thumbsup", "num": 3 }]
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-9 3:02 PM",
+            "text":
+              "Triggered #6478 | Problem | Disaster | Average CPUUtilization GreaterThanOrEqualToThreshold 80.0 for ServiceName graderite-portal-worker-prod! Assigned: Brad Guttenberg Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-9 3:02 PM",
+            "text":
+              "Acknowledged #6478 | Problem | Disaster | Average CPUUtilization GreaterThanOrEqualToThreshold... Assigned: Brad Guttenberg Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-9 3:06 PM",
+            "text":
+              "Resolved #6478 | Problem | Disaster | Average CPUUtilization GreaterThanOrEqualToThreshold... Assigned: Brad Guttenberg Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-9 3:08 PM",
+            "text": "Oh god, don’t leave us!",
+            "reactions": [{ "emoji": "laughing", "num": 3 }]
+          },
+          {
+            "author": "John",
+            "date": "2018-03-9 3:10 PM",
+            "text": "I’m sure nothing will happen…",
+            "reactions": [{ "emoji": "ded", "num": 1 }]
+          },
+          {
+            "author": "David",
+            "date": "2018-03-9 4:30 PM",
+            "text":
+              "People are reporting 404’s on the overview page. Are we sure the credentials issue is fixed?",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-9 4:33 PM",
+            "text": "^ @here",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-9 4:33 PM",
+            "text":
+              "Rollbar is showing a spike in JS errors, looking like a routing issue, @John?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-9 4:34 PM",
+            "text": "Looking into it!",
+            "reactions": [{ "emoji": "thumbsup", "num": 1 }]
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-10 10:05 AM",
+            "text":
+              "Triggered #6479 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-10 10:05 AM",
+            "text":
+              "Acknowledged #6479 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-10 10:06 AM",
+            "text": "@here whats going on?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-10 10:07 AM",
+            "text":
+              "It looks like it’s a temporary spike, queue length going down again",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-10 10:07 AM",
+            "text":
+              "Acknowledged #6479 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-10 10:07 AM",
+            "text": "I’ll have Brad look into it on Monday",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-12 11:16 AM",
+            "text":
+              "I just noticed a bot unassigned my PR’s reviewer. What is going on?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-12 11:17 AM",
+            "text":
+              "After commenting, the graderite bot unassigns the reviewer so the owner can address the issue",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-12 11:17 AM",
+            "text": "When did this start? And is it referenced anywhere?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-12 11:18 AM",
+            "text":
+              "Last week, it’s in the guru card: https://app.getguru.com/#/facts/38beb0ba-a0ec-4cdd-81df-4c7f34a44e07",
+            "reactions": [{ "emoji": "thanks", "num": 1 }]
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-12 11:45 AM",
+            "text":
+              "Here’s your periodic reminder that GDPR begins in May. Make sure you are following all the steps in this card for your owned repos: https://app.getguru.com/#/facts/5e90af78-41e1-42a2-8a5c-491c92b83c2d",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-12 1:32 PM",
+            "text":
+              "Can anyone explain what this spike is on March 3? https://metrics.graderite.com/segmentation#aggregation:(type:unique),analysis:linear,chartType:line,dateEnd:'0',dateStart:'12',eventName:welcome,timeUnit:day",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-12 1:34 PM",
+            "text":
+              "This seems to correspond with a spike in forum posts, which matches with the “sexy local schoolteacher” problem.",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-12 1:35 PM",
+            "text": "Bots?",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-12 1:35 PM",
+            "text": "Looks like it.",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-12 2:24 PM",
+            "text":
+              "We’ve identified that the localization backend is costing us a lot for the amount of work it should be doing. I’ve written up a preliminary spec about transferring it over to Scala, please take a look: https://docs.google.com/document/d/1mJnOx5koOATe8MhQ1Ni2m2aK-g7QnZZlkNyYqJtAFws/edit?usp=sharing",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-12 3:17 PM",
+            "text":
+              "Triggered #6480 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-12 3:18 PM",
+            "text": "@john is this the same problem from the weekend?",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-12 3:18 PM",
+            "text":
+              "Acknowledged #6480 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-12 3:19 PM",
+            "text": "It looks like it. Keeping an eye on the queue",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-12 3:20 PM",
+            "text": "Is this user facing?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-12 3:21 PM",
+            "text":
+              "Users won’t notice this latency, it’s just for notifications",
+            "reactions": [{ "emoji": "thumbsup", "num": 1 }]
+          },
+          {
+            "author": "John",
+            "date": "2018-03-12 3:25 PM",
+            "text": "It’s going down again.",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-12 3:25 PM",
+            "text":
+              "Resolved #6480 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-13 11:13 AM",
+            "text": "@john Did you find anything about the queue",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-13 11:15 AM",
+            "text":
+              "Thanks to @anna and @ajay I was able to find that the scaling policy wasn’t set up correctly to deal with our newly increased user base. I increased the max machines",
+            "reactions": [{ "emoji": "thumbsup", "num": 1 }]
+          },
+          {
+            "author": "David",
+            "date": "2018-03-13 11:25 AM",
+            "text":
+              "Is anyone on top of periodically reviewing things like this as our DAUs grow?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-13 11:26 AM",
+            "text": "Not atm, @ajay?",
+            "reactions": []
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-13 11:28 AM",
+            "text": "Sure",
+            "reactions": []
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-13 12:15 PM",
+            "text":
+              "I’m trying to merge in my big transfer change, but the jenkins ci task is failing. Who would I ask about that kind of thing?",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-13 2:20 PM",
+            "text":
+              "@here It looks like the load on the reports db is spiking, does anyone know of something that may be querying it? Welcomes are steady",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-13 2:27 PM",
+            "text":
+              "Looks like a runaway query in the diagnostics dashboard. I’ve shut down the dashboard for now until I push the fix.",
+            "reactions": [{ "emoji": "thanks", "num": 1 }]
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-13 3:24 PM",
+            "text":
+              "Would it be possible to force-merge this change since the jenkins is failing?",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-13 3:25 PM",
+            "text":
+              "I think we should wait until we get the ci back up. Do you need help?",
+            "reactions": [{ "emoji": "thumbsup", "num": 1 }]
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-14 11:25 AM",
+            "text":
+              "Where would I look for mapping between github usernames and employee names?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-14 11:27 AM",
+            "text": "There’s already a card in guru for this.",
+            "reactions": []
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-14 11:43 AM",
+            "text": "Who would have the contractor contact information?",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-14 11:45 AM",
+            "text": "Christy would",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-15 10:23 AM",
+            "text":
+              "@here Some of our accounts might have been hacked, including our github. We need each of the platform owners to look through the commits by `bgutenberg` to find out what they changed.",
+            "reactions": [
+              { "emoji": "thumbsup", "num": 3 },
+              { "emoji": "secret-agent", "num": 1 }
+            ]
+          },
+          {
+            "author": "John",
+            "date": "2018-03-15 10:25 AM",
+            "text":
+              "Is this the same account on guru and google? How did this happen?!?",
+            "reactions": [{ "emoji": "shrug", "num": 1 }]
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-15 11:35 AM",
+            "text": "@here engineering meeting today cancelled",
+            "reactions": []
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-15 12:20 PM",
+            "text":
+              "The jenkins ci has been fixed! Thanks @anna! You can now retrigger your ci by commenting `run ci` in your pr",
+            "reactions": [{ "emoji": "yay", "num": 2 }]
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-15 2:23 PM",
+            "text":
+              "Would any repo checkers be free to give the final check on my transfer pr? #56",
+            "reactions": [{ "emoji": "thumbsup", "num": 1 }]
+          },
+          {
+            "author": "David",
+            "date": "2018-03-16 10:16 AM",
+            "text":
+              "@here How long will it take to revert all of these fake commits?",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-16 10:20 AM",
+            "text":
+              "I’m not sure that’s possible. There are hundreds of them across a huge number of files.",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-16 10:32 AM",
+            "text":
+              "I’m finding the same thing, there doesn’t seem to be any malicious pattern to it either. They reference Jira issues that this account is assigned to, and they appear to fix the issues that they are associated with.",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-16 10:35 AM",
+            "text":
+              "They’ve gone through a weird amount of effort too. A lot of comments on these issues are spoofed from our accounts. Also their comments and reviews appear on closed pr’s.",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-16 10:42 AM",
+            "text":
+              "Could they have force pushed branches to rewrite their commit history?",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-16 10:46 AM",
+            "text":
+              "Yes, but I don’t know how they inserted historical comments in pr’s and such in github",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-16 10:53 AM",
+            "text":
+              "Who keeps their laptop in the office overnight, and what permissions do you have in the repo?",
+            "reactions": []
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-16 11:15 AM",
+            "text": "I don’t.",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-16 11:16 AM",
+            "text": "I don’t think anyone doesn’t take their laptop home",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-16 1:25 PM",
+            "text":
+              "Triggered #6481 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-16 1:25 PM",
+            "text":
+              "Acknowledged #6481 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-16 1:26 PM",
+            "text": "Should I stop my virus scan to look at the queue?",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-16 1:26 PM",
+            "text":
+              "Keep scanning, you can use my computer to log in, I’m finished",
+            "reactions": [{ "emoji": "thanks", "num": 1 }]
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-16 1:27 PM",
+            "text":
+              "Resolved #6481 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-16 2:15 PM",
+            "text":
+              "@ajay can you take a look at the graderite-social for bgutenberg?",
+            "reactions": [{ "emoji": "thumbsup", "num": 1 }]
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-16 2:34 PM",
+            "text": "Did anyone modify the virtualenv on next recently?",
+            "reactions": []
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-16 2:37 PM",
+            "text": "false alarm",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-17 2:15 PM",
+            "text":
+              "Triggered #6482 | ALARM: \"new-worker queue jump above 250,000 messages\" in US East (N. Virginia) Assigned: John Lovington Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-17 2:20 PM",
+            "text":
+              "Escalated #6482 | ALARM: \"new-worker queue jump above 250,000 messages\" in US East (N. Virginia) Assigned: Anna Chan Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-17 2:22 PM",
+            "text":
+              "Acknowledged #6482 | ALARM: \"new-worker queue jump above 250,000 messages\" in US East (N. Virginia) Assigned: Anna Chan Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-17 2:23 PM",
+            "text": "I’ll just wait and see if it goes back down",
+            "reactions": [{ "emoji": "thumbsup", "num": 1 }]
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-17 2:30 PM",
+            "text":
+              "Resolved #6482 | ALARM: \"new-worker queue jump above 250,000 messages\" in US East (N. Virginia) Assigned: Anna Chan Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-19 10:34 AM",
+            "text":
+              "I finished up the audits on my repos this weekend. I found changes by bgutenberg all the way through, but nothing appears suspicious in the changes",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-19 10:37 AM",
+            "text":
+              "Me too, nothing so suspicious here, besides some bad coding practices. Exploits however, I found none of",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-19 10:41 AM",
+            "text": "What sort of bad coding practices?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-19 10:42 AM",
+            "text":
+              "One of the DALs wasn’t using the connection pool, but I don’t think this could be used to hurt us unless someone really hammered the server with requests for notifications or something",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-19 10:45 AM",
+            "text": "How soon do you think you could have a patch in for that?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-19 10:46 AM",
+            "text": "This afternoon I could get it into code review",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-19 11:25 AM",
+            "text":
+              "@here look through the repos again for any more commits from unknowns, there may be some from someone named christy",
+            "reactions": [{ "emoji": "thumbsup", "num": 2 }]
+          },
+          {
+            "author": "David",
+            "date": "2018-03-19 1:08 PM",
+            "text":
+              "How many guru cards show touched by these two? Is there a history tool we can use to revert these to a previous state?",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-19 1:15 PM",
+            "text":
+              "Not many by brad, but a lot by christy. There is a tool, but it shows edits for a long time back done by them. It seems like theyve been editing cards on the down low for a long time and we never noticed",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-19 1:16 PM",
+            "text": "Could it be that they were hacked like google and github?",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-19 1:16 PM",
+            "text": "it just seems too farfetched for guru too",
+            "reactions": []
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-20 10:50 AM",
+            "text":
+              "what’s the overall plan with tasks now. Are we still doing things in order?",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-20 10:52 AM",
+            "text":
+              "I would say yes, keep on working on your assigned tasks until we find out what restructuring we have to do",
+            "reactions": []
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-20 10:53 AM",
+            "text": "Even for tasks assigned by brad?",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-20 10:53 AM",
+            "text": "not those…",
+            "reactions": []
+          },
+          {
+            "author": "Ajay",
+            "date": "2018-03-21 10:43 AM",
+            "text":
+              "@anna would you be able to give me some tasks, I’m fresh out",
+            "reactions": [{ "emoji": "thumbsup", "num": 1 }]
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-21 11:55 AM",
+            "text":
+              "Triggered #6483 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-21 11:55 AM",
+            "text":
+              "Resolved #6483 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: John Lovington Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "Anna",
+            "date": "2018-03-21 11:55 AM",
+            "text":
+              "I resolved and reassigned. @david is pagerduty affected now too? I don’t think john lovington works here",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-21 12:22 PM",
+            "text":
+              "Triggered #6484 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: Anna Chan Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-21 12:32 PM",
+            "text":
+              "Escalated #6484 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: David Castillo Service: Monolith",
+            "reactions": []
+          },
+          {
+            "author": "PagerDuty",
+            "date": "2018-03-21 12:42 PM",
+            "text":
+              "Escalated #6484 | Problem | Disaster | Average ApproximateNumberOfMessagesVisible GreaterThanOrEqualToThreshold 200000.0 for QueueName graderite-social-tasks Assigned: David Castillo Service: Monolith",
+            "reactions": []
+          }
+        ]
+      }
+    ],
+    "private": [
+      {
+        "authors": ["john", "christy"],
+        "messages": [
+          {
+            "author": "John",
+            "date": "2018-03-9 12:31 PM",
+            "text": "Want to get lunch?",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-9 12:35 PM",
+            "text":
+              "I’m on this call with the building manager, no lunch today.",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-9 1:34 PM",
+            "text": ":sadpanda:",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-12 10:43 AM",
+            "text": "You’ve got to chill out about the sink.",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-12 11:20 AM",
+            "text": "Want to go out for lunch today?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-12 11:21 AM",
+            "text": "Sure!",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-12 11:21 AM",
+            "text": "Lets go at 12:30 after I handle the caterer",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-12 11:22 AM",
+            "text": "SGTM! :heart:",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-12 2:41 PM",
+            "text": "You could _not_ be an asshole",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-13 11:02 AM",
+            "text": "Do you want to go up to Erie this weekend?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-13 11:03 AM",
+            "text":
+              "Don’t you have to officiate that company axe throwing thing?",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-13 11:03 AM",
+            "text": "I don’t have to be there for that.",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-13 11:04 AM",
+            "text": "Sure!",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-16 11:20 AM",
+            "text":
+              "I don’t want to freak you out, but brad has a seat in the chart, and his seat is full of real life stuff",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-16 11:21 AM",
+            "text":
+              "I’ve already told David, I noticed it this morning. Please don’t tell anyone else, we are getting the locks changed monday",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-16 11:21 AM",
+            "text":
+              "I think people already know, I’ve seen people eye the desk surreptitiously as they walk by",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-16 11:22 AM",
+            "text": "Oh man",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-16 2:34 PM",
+            "text": "Would you like to go camping instead this weekend?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-16 2:36 PM",
+            "text": "Sure, why?",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-16 2:37 PM",
+            "text": "Lets talk after work",
+            "reactions": [{ "emoji": "thumbsup", "num": 1 }]
+          }
+        ]
+      },
+      {
+        "authors": ["david", "christy"],
+        "messages": [
+          {
+            "author": "David",
+            "date": "2018-03-9 1:35 PM",
+            "text":
+              "Throw our weight at the manager, we need this fixed today.",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-9 1:37 PM",
+            "text": "He literally can’t send anyone out until monday.",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-9 1:38 PM",
+            "text": "Get an independent technician",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-9 1:39 PM",
+            "text":
+              "I’ve already looked into it, the contract says that only their technicians can do the work.",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-12 2:38 PM",
+            "text": "This noise has got to stop.",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-12 2:39 PM",
+            "text": "I’ll find out if it can get any quieter.",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-12 3:43 PM",
+            "text":
+              "The axe throwing place won’t give us the group rate for under 20 people",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-12 3:45 PM",
+            "text": "That’s unacceptable, find another place",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-12 3:47 PM",
+            "text": "I’m not sure there _are_ any other axe throwing places",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-13 12:20 PM",
+            "text": "Book escape the room this weekend instead",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-13 12:21 PM",
+            "text": "I already booked the axe place",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-14 2:50 PM",
+            "text": "How sure are we that this isn’t just a glitch?",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-14 2:52 PM",
+            "text":
+              "I’m seeing extensive edits done to our guru cards by this person",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-14 2:55 PM",
+            "text": "Can we revert those changes?",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-14 2:57 PM",
+            "text": "I have no idea",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-14 3:30 PM",
+            "text":
+              "Set up a meeting tomorrow morning with everyone on the dream team for this hacking thing",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-14 3:35 PM",
+            "text": "Done",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-16 10:43 AM",
+            "text":
+              "It looks like someone’s broken into the office. The seating chart has been changed so that the remote seat at the front is listed as brad’s, and there’s a lot of stuff on the desk that wasn’t there before.",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-16 10:45 AM",
+            "text": "WHY WHY WHY???? What’s on the desk?",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-16 10:46 AM",
+            "text":
+              "I don’t know, nothing weird. Programming books and stuff, it just looks like a normal desk, but the remote desks are supposed to be clean except for a monitor and a couple other things. There’s way more stuff than that here.",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-16 10:52 AM",
+            "text":
+              "Get a locksmith in here and change all the locks. We need to start physically locking the glass door, I don’t trust this magnetic lock",
+            "reactions": []
+          },
+          {
+            "author": "Christy",
+            "date": "2018-03-16 10:53 AM",
+            "text": "I’m already on the phone to the landlord",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-16 10:55 AM",
+            "text":
+              "check your records, the ip they could steal is way more valuable than whatever half baked plan is going on here",
+            "reactions": []
+          }
+        ],
+        "john-david": [
+          {
+            "author": "John",
+            "date": "2018-03-20 11:24 AM",
+            "text":
+              "I think christie might have actually worked here as our office manager",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-20 11:25 AM",
+            "text": "when?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-20 11:25 AM",
+            "text": "I think as recently as this week",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-20 11:26 AM",
+            "text": "what do you mean?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-20 11:28 AM",
+            "text":
+              "there was a lot of stuff in my apartment that I don’t remember getting. More than a few things had christie’s name on it",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-20 11:30 AM",
+            "text":
+              "but maybe the weirdest thing is that I found a lot of slack messages between me and her, and some of them talked about us going hiking together last weekend",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-20 11:31 AM",
+            "text": "But you didn’t go hiking last weekend?",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-20 11:34 AM",
+            "text":
+              "no, but i DID go to Allegheny National Forest, I didn’t tell anyone though. I was going to hike, but I didn’t feel into it and I left after a bit.",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-20 11:35 AM",
+            "text":
+              "I did a search for that place in slack though, and I found a message from brad saying that he was going there two weekends ago. I don’t remember him, and I don’t remember her, but I can’t explain why I was there. I don’t even like hiking",
+            "reactions": []
+          },
+          {
+            "author": "John",
+            "date": "2018-03-20 11:36 AM",
+            "text":
+              "I think christie and I went there to look for brad, and I think we were living together too.",
+            "reactions": []
+          },
+          {
+            "author": "David",
+            "date": "2018-03-20 11:36 AM",
+            "text": "Lets talk in the meeting room",
+            "reactions": []
+          }
+        ]
+      }
+    ]
+  }
 }
