@@ -1398,8 +1398,11 @@
               "check your records, the ip they could steal is way more valuable than whatever half baked plan is going on here",
             "reactions": []
           }
-        ],
-        "john-david": [
+        ]
+      },
+      {
+        "authors": ["john", "david"],
+        "messages": [
           {
             "author": "John",
             "date": "2018-03-20 11:24 AM",
