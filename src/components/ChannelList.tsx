@@ -6,12 +6,12 @@ import messages from '../messages';
 import styles from '../styles/ChannelList.css';
 
 const ChannelList = ({ channel = 'general' }: { channel: string }) => (
-  <div>
-    <ul>
+  <div className={styles.container}>
+    <ul className={styles['channel-list']}>
       {messages.channels.public.map(channelJson => (
-        <li key={channelJson.name}>
+        <li className={styles.channel} key={channelJson.name}>
           <Link
-            className={cn({
+            className={cn(styles.link, {
               [styles.active]: channelJson.name === channel
             })}
             to={`/${channelJson.name}`}
@@ -22,13 +22,13 @@ const ChannelList = ({ channel = 'general' }: { channel: string }) => (
       ))}
     </ul>
     <div>Direct Messages</div>
-    <ul>
+    <ul className={styles['channel-list']}>
       {messages.channels.private.map(channelJson => {
         const path = channelJson.authors.join('-');
         return (
-          <li key={path}>
+          <li className={styles.channel} key={path}>
             <Link
-              className={cn({ [styles.active]: path === channel })}
+              className={cn(styles.link, { [styles.active]: path === channel })}
               to={`/${path}`}
             >
               {channelJson.authors.join(', ')}

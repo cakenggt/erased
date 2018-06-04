@@ -2,6 +2,7 @@ import * as React from 'react';
 import ReactDOM from 'react-dom';
 import { HashRouter as Router, Route } from 'react-router-dom';
 
+import styles from './styles/Index.css';
 import ChannelList from './components/ChannelList';
 import Chat from './components/Chat';
 
@@ -10,7 +11,7 @@ class Index extends React.Component<{
 }> {
   render() {
     return (
-      <div>
+      <div className={styles.container}>
         <ChannelList channel={this.props.match.params.channelName} />
         <Chat channel={this.props.match.params.channelName} />
       </div>
