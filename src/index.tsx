@@ -6,6 +6,7 @@ import styles from './styles/Index.css';
 import ChannelList from './components/ChannelList';
 import Chat from './components/Chat';
 import Topbar from './components/Topbar';
+import UserInput from './components/UserInput';
 
 class Index extends React.Component<{
   match: { params: { channelName?: string } };
@@ -17,6 +18,7 @@ class Index extends React.Component<{
         <div className={styles['right-side']}>
           <Topbar channel={this.props.match.params.channelName} />
           <Chat channel={this.props.match.params.channelName} />
+          <UserInput />
         </div>
       </div>
     );

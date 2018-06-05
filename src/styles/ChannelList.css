@@ -1,17 +1,18 @@
 .container {
-  background-color: black;
+  background-color: rgb(68, 0, 64);
   color: white;
   flex: 0 0 200px;
-  padding: 30px;
+}
+
+.label {
+  padding: 5px 30px;
 }
 
 .link {
   color: white;
+  display: block;
+  padding: 5px 30px;
   text-decoration: none;
-}
-
-.link:hover {
-  text-decoration: underline;
 }
 
 .channel-list {
@@ -22,6 +23,10 @@
   list-style: none;
 }
 
+.channel:hover:not(.active) {
+  background-color: rgb(29, 29, 29);
+}
+
 .active {
-  font-weight: 700;
+  background-color: rgb(0, 133, 7);
 }

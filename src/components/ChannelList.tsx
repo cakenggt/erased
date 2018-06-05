@@ -22,16 +22,18 @@ const ChannelList = ({ channel = 'general' }: { channel: string }) => (
         </li>
       ))}
     </ul>
-    <div>Direct Messages</div>
+    <div className={styles.label}>Direct Messages</div>
     <ul className={styles['channel-list']}>
       {messages.channels.private.map(channelJson => {
         const path = getPrivateChannelName(channelJson);
         return (
-          <li className={styles.channel} key={path}>
-            <Link
-              className={cn(styles.link, { [styles.active]: path === channel })}
-              to={`/${path}`}
-            >
+          <li
+            className={cn(styles.channel, {
+              [styles.active]: path === channel
+            })}
+            key={path}
+          >
+            <Link className={styles.link} to={`/${path}`}>
               {channelJson.authors.join(', ')}
             </Link>
           </li>
