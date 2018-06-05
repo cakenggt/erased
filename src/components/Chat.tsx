@@ -10,21 +10,6 @@ interface ChatWindowProps {
 
 type ChatWindowState = Record<string, number>;
 
-const LARGE_SCROLL = 10000000;
-
-const generateChatWindowState = () => {
-  let state: ChatWindowState = {};
-  state = messages.channels.public.reduce((acc, { name }) => {
-    acc[name] = LARGE_SCROLL;
-    return acc;
-  }, state);
-  state = messages.channels.private.reduce((acc, channel) => {
-    acc[getPrivateChannelName(channel)] = LARGE_SCROLL;
-    return acc;
-  }, state);
-  return state;
-};
-
 class ChatWindow extends React.Component<ChatWindowProps, ChatWindowState> {
   private el: Element;
 
@@ -33,10 +18,10 @@ class ChatWindow extends React.Component<ChatWindowProps, ChatWindowState> {
     this.setState({ [channel]: this.el.scrollTop });
   };
 
-  public state: ChatWindowState = generateChatWindowState();
+  public state: ChatWindowState = {};
 
   public componentDidMount() {
-    this.el.scrollTop = LARGE_SCROLL;
+    this.el.scrollTop = this.el.scrollHeight;
     this.el.addEventListener('scroll', this.scrollListener);
   }
 
@@ -46,7 +31,12 @@ class ChatWindow extends React.Component<ChatWindowProps, ChatWindowState> {
 
   public componentDidUpdate({ channel }: ChatWindowProps) {
     if (this.props.channel !== channel) {
-      this.el.scrollTop = this.state[channel];
+      if (this.props.channel in this.state) {
+        this.el.scrollTop = this.state[this.props.channel];
+      } else {
+        this.el.scrollTop = this.el.scrollHeight;
+        this.setState({ [this.props.channel]: this.el.scrollHeight });
+      }
     }
   }
 
@@ -92,17 +82,17 @@ class ChatWindow extends React.Component<ChatWindowProps, ChatWindowState> {
     return (
       <div className={styles.container} ref={ref => (this.el = ref)}>
         {messagesByDate.map(({ date, messages }) => (
-          <div>
-            <div className={styles['date-separator']} key={date}>
+          <div key={date}>
+            <div className={styles['date-separator']}>
               <span className={styles['date-separator-label']}>{date}</span>
             </div>
             {messages.map(({ author, date, text }, i) => (
-              <div key={i}>
+              <div className={styles.entry} key={i}>
                 <div>
                   <span>{author}</span>
                   <span>{date.toFormat('h:m a')}</span>
                 </div>
-                <div>{text}</div>
+                <div className={styles.text}>{text}</div>
               </div>
             ))}
           </div>

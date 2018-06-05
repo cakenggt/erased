@@ -23,3 +23,16 @@
   transform: translateY(-5px);
   z-index: 2;
 }
+
+.entry {
+  background-color: white;
+  padding: 5px 40px;
+}
+
+.entry:hover {
+  background-color: #efefef;
+}
+
+.text {
+  line-height: 22px;
+}
