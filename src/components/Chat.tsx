@@ -3,7 +3,8 @@ import * as React from 'react';
 import messages, { Message } from '../messages';
 import styles from '../styles/Chat.css';
 import { AVATARS, EMPTY_AVATAR } from '../util/avatars';
-import { getPrivateChannelName } from '../util/channel';
+import { EMOJI, EMPTY_EMOJI } from '../util/emoji';
+import { getPrivateChannelName, processText } from '../util/channel';
 
 interface ChatWindowProps {
   channel?: string;
@@ -87,7 +88,7 @@ class ChatWindow extends React.Component<ChatWindowProps, ChatWindowState> {
             <div className={styles['date-separator']}>
               <span className={styles['date-separator-label']}>{date}</span>
             </div>
-            {messages.map(({ author, date, text }, i) => (
+            {messages.map(({ author, date, reactions, text }, i) => (
               <div className={styles.entry} key={i}>
                 <img
                   className={styles.avatar}
@@ -100,7 +101,18 @@ class ChatWindow extends React.Component<ChatWindowProps, ChatWindowState> {
                       {date.toFormat('h:mm a')}
                     </span>
                   </div>
-                  <div>{text}</div>
+                  <div>{processText(text)}</div>
+                  {reactions.length
+                    ? reactions.map(({ emoji, num }) => (
+                        <span className={styles.reaction}>
+                          <img
+                            className={styles['reaction-emoji']}
+                            src={EMOJI[emoji] || EMPTY_EMOJI}
+                          />
+                          <span>{num}</span>
+                        </span>
+                      ))
+                    : null}
                 </div>
               </div>
             ))}

@@ -1,0 +1,12 @@
+.at {
+  background-color: rgb(255, 244, 143);
+  border-radius: 5px;
+  font-weight: 700;
+  padding: 0 2px;
+}
+
+.emoji {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+}
