@@ -14,6 +14,7 @@ export const processText = (text: string): React.ReactChild => {
     `<a href="$1" target="__blank">$1</a>`
   );
   processed = processed.replace(/(_(.+?)_)/, '<em>$2</em>');
+  processed = processed.replace(/(`(.+?)`)/, '<code>$2</code>');
   processed = processed.replace(
     /(:([\w+-]+?):)/,
     (match, p1, p2) =>
