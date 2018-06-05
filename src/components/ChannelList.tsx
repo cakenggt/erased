@@ -8,6 +8,7 @@ import { getPrivateChannelName } from '../util/channel';
 
 const ChannelList = ({ channel = 'general' }: { channel: string }) => (
   <div className={styles.container}>
+    <div className={styles.label}>Channels</div>
     <ul className={styles['channel-list']}>
       {messages.channels.public.map(channelJson => (
         <li className={styles.channel} key={channelJson.name}>
