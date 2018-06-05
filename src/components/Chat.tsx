@@ -2,6 +2,7 @@ import * as React from 'react';
 
 import messages, { Message } from '../messages';
 import styles from '../styles/Chat.css';
+import { AVATARS, EMPTY_AVATAR } from '../util/avatars';
 import { getPrivateChannelName } from '../util/channel';
 
 interface ChatWindowProps {
@@ -88,11 +89,19 @@ class ChatWindow extends React.Component<ChatWindowProps, ChatWindowState> {
             </div>
             {messages.map(({ author, date, text }, i) => (
               <div className={styles.entry} key={i}>
-                <div>
-                  <span>{author}</span>
-                  <span>{date.toFormat('h:m a')}</span>
+                <img
+                  className={styles.avatar}
+                  src={AVATARS[author] || EMPTY_AVATAR}
+                />
+                <div className={styles.post}>
+                  <div>
+                    <span className={styles.author}>{author}</span>
+                    <span className={styles.time}>
+                      {date.toFormat('h:mm a')}
+                    </span>
+                  </div>
+                  <div>{text}</div>
                 </div>
-                <div className={styles.text}>{text}</div>
               </div>
             ))}
           </div>

@@ -26,13 +26,33 @@
 
 .entry {
   background-color: white;
+  display: flex;
+  line-height: 22px;
   padding: 5px 40px;
+}
+
+.avatar {
+  border-radius: 3px;
+  display: inline-block;
+  flex: 0 0 auto;
+  height: 35px;
+  overflow: hidden;
+  width: 35px;
+}
+
+.post {
+  padding-left: 10px;
 }
 
 .entry:hover {
   background-color: #efefef;
 }
 
-.text {
-  line-height: 22px;
+.author {
+  font-weight: 700;
+}
+
+.time {
+  color: #999;
+  padding-left: 5px;
 }
