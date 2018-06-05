@@ -2,23 +2,51 @@ import * as React from 'react';
 
 import messages, { Message } from '../messages';
 import styles from '../styles/Chat.css';
+import { getPrivateChannelName } from '../util/channel';
 
 interface ChatWindowProps {
   channel?: string;
 }
 
+type ChatWindowState = Record<string, number>;
+
 const LARGE_SCROLL = 10000000;
 
-class ChatWindow extends React.Component<ChatWindowProps> {
+const generateChatWindowState = () => {
+  let state: ChatWindowState = {};
+  state = messages.channels.public.reduce((acc, { name }) => {
+    acc[name] = LARGE_SCROLL;
+    return acc;
+  }, state);
+  state = messages.channels.private.reduce((acc, channel) => {
+    acc[getPrivateChannelName(channel)] = LARGE_SCROLL;
+    return acc;
+  }, state);
+  return state;
+};
+
+class ChatWindow extends React.Component<ChatWindowProps, ChatWindowState> {
   private el: Element;
 
+  private scrollListener = (e: Event) => {
+    const { channel = 'general' } = this.props;
+    this.setState({ [channel]: this.el.scrollTop });
+  };
+
+  public state: ChatWindowState = generateChatWindowState();
+
   public componentDidMount() {
-    this.el && (this.el.scrollTop = LARGE_SCROLL);
+    this.el.scrollTop = LARGE_SCROLL;
+    this.el.addEventListener('scroll', this.scrollListener);
+  }
+
+  public componentWillUnmount() {
+    this.el.removeEventListener('scroll', this.scrollListener);
   }
 
   public componentDidUpdate({ channel }: ChatWindowProps) {
     if (this.props.channel !== channel) {
-      this.el && (this.el.scrollTop = LARGE_SCROLL);
+      this.el.scrollTop = this.state[channel];
     }
   }
 
@@ -32,7 +60,7 @@ class ChatWindow extends React.Component<ChatWindowProps> {
       }
     });
     messages.channels.private.forEach(c => {
-      if (channel === c.authors.join('-')) {
+      if (channel === getPrivateChannelName(c)) {
         displayedMessages = c.messages;
       }
     });
@@ -63,18 +91,22 @@ class ChatWindow extends React.Component<ChatWindowProps> {
 
     return (
       <div className={styles.container} ref={ref => (this.el = ref)}>
-        {messagesByDate.map(({ date, messages }) => [
-          <div key={date}>{date}</div>,
-          messages.map(({ author, date, text }, i) => (
-            <div key={i}>
-              <div>
-                <span>{author}</span>
-                <span>{date.toFormat('h:m a')}</span>
-              </div>
-              <div>{text}</div>
+        {messagesByDate.map(({ date, messages }) => (
+          <div>
+            <div className={styles['date-separator']} key={date}>
+              <span className={styles['date-separator-label']}>{date}</span>
             </div>
-          ))
-        ])}
+            {messages.map(({ author, date, text }, i) => (
+              <div key={i}>
+                <div>
+                  <span>{author}</span>
+                  <span>{date.toFormat('h:m a')}</span>
+                </div>
+                <div>{text}</div>
+              </div>
+            ))}
+          </div>
+        ))}
       </div>
     );
   }

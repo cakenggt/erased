@@ -36,7 +36,7 @@ interface PublicChannel extends Channel {
   name: string;
 }
 
-interface PrivateChannel extends Channel {
+export interface PrivateChannel extends Channel {
   authors: string[];
 }
 

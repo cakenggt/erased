@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 
 import messages from '../messages';
 import styles from '../styles/ChannelList.css';
+import { getPrivateChannelName } from '../util/channel';
 
 const ChannelList = ({ channel = 'general' }: { channel: string }) => (
   <div className={styles.container}>
@@ -24,7 +25,7 @@ const ChannelList = ({ channel = 'general' }: { channel: string }) => (
     <div>Direct Messages</div>
     <ul className={styles['channel-list']}>
       {messages.channels.private.map(channelJson => {
-        const path = channelJson.authors.join('-');
+        const path = getPrivateChannelName(channelJson);
         return (
           <li className={styles.channel} key={path}>
             <Link

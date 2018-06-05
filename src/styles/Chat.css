@@ -1,4 +1,25 @@
 .container {
-  height: 100%;
+  flex: 1 1 auto;
   overflow-y: scroll;
+}
+
+.date-separator {
+  background-color: white;
+  border-bottom: #333 1px solid;
+  display: flex;
+  height: 10px;
+  justify-content: center;
+  margin-bottom: 10px;
+  position: sticky;
+  top: 0;
+}
+
+.date-separator-label {
+  background-color: white;
+  border-radius: 3px;
+  display: inline-block;
+  height: 1em;
+  padding: 6px;
+  transform: translateY(-5px);
+  z-index: 2;
 }

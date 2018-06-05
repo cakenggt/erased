@@ -5,6 +5,7 @@ import { HashRouter as Router, Route } from 'react-router-dom';
 import styles from './styles/Index.css';
 import ChannelList from './components/ChannelList';
 import Chat from './components/Chat';
+import Topbar from './components/Topbar';
 
 class Index extends React.Component<{
   match: { params: { channelName?: string } };
@@ -13,7 +14,10 @@ class Index extends React.Component<{
     return (
       <div className={styles.container}>
         <ChannelList channel={this.props.match.params.channelName} />
-        <Chat channel={this.props.match.params.channelName} />
+        <div className={styles['right-side']}>
+          <Topbar channel={this.props.match.params.channelName} />
+          <Chat channel={this.props.match.params.channelName} />
+        </div>
       </div>
     );
   }
