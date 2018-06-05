@@ -4,6 +4,7 @@ SHELL = /usr/bin/env bash
 WORKSPACE ?= $(shell pwd)
 PYENV_HOME := ${WORKSPACE}/.pyenv
 PYTHON_EXE ?= $(shell which python)
+PUBLIC_URL = /erased/
 
 .PHONY: serve
 serve:
@@ -11,7 +12,8 @@ serve:
 
 .PHONY: build
 build:
-	npx parcel build index.html
+	echo "Building to public url: ${PUBLIC_URL}"
+	npx parcel build index.html --public-url ${PUBLIC_URL}
 
 .PHONY: install
 install:
